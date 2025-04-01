@@ -62,15 +62,27 @@ Une application facilitant la mise en relation entre personnes ayant besoin d’
 
 ---
 
+## 🌟 Most Used Technologies
+
+Voici les technologies que j'utilise le plus fréquemment dans mes projets :
+
+- **Frontend** : Flutter, Next.js
+- **Backend** : Node.js (Express.js), PHP
+- **Bases de données** : Firebase, MySQL
+- **DevOps** : Docker, Firebase Hosting
+- **Outils de collaboration** : Git, GitHub, Trello
+
+---
+
 ## 📈 GitHub Stats
 
-![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeCHOKKI&show_icons=true&theme=radical)
+![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeCHOKKI&show_icons=true&theme=gruvbox)
 
 ---
 
 ## 📫 Me Contacter
 
-📧 Email : [mike@example.com](mailto:mikechokki5@gmail.com)  
+📧 Email : [Mike CHOKKI](mailto:mikechokki5@gmail.com)  
 🐦 Twitter : [@MikeCHOKKI](https://twitter.com/MikeCHOKKI)  
 💼 LinkedIn : [Mike's LinkedIn](https://www.linkedin.com/in/mikechokki)
 
