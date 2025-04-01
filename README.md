@@ -2,7 +2,7 @@
 
 Bienvenue sur mon GitHub ! Passionné par le développement et les technologies, je suis titulaire d'une **Licence en Génie Logiciel** et j'ai acquis une solide expérience en tant que **Prestataire de service informatique**. Mon parcours professionnel m'a permis de développer des compétences techniques avancées et de mener à bien des projets complexes.
 
-Actuellement **Chef d'exploitation informatique chez RAz-TECH à Cotonou, Edoko**, je gère l'infrastructure informatique, supervise l'équipe technique et assure la sécurité des systèmes. Je suis engagé à fournir des solutions efficaces et adaptées aux besoins des clients, tout en garantissant une qualité de service irréprochable.
+Actuellement **Chef d'exploitation informatique chez RAB-TECH à Cotonou, Vedoko**, je gère l'infrastructure informatique, supervise l'équipe technique et assure la sécurité des systèmes. Je suis engagé à fournir des solutions efficaces et adaptées aux besoins des clients, tout en garantissant une qualité de service irréprochable.
 
 ---
 
