@@ -76,7 +76,7 @@ Voici les technologies que j'utilise le plus fréquemment dans mes projets :
 
 ## 📈 GitHub Stats
 
-![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeCHOKKI&show_icons=true&theme=gruvbox)
+[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeCHOKKI&include_all_commits=true&theme=aura)](https://github.com/MikeCHOKKI/github-readme-stats)
 
 ---
 
