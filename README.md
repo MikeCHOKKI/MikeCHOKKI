@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Mike!
+# 👋 Hello, I'm Mike
 
 Bienvenue sur mon GitHub ! Passionné par le développement et les technologies, je suis titulaire d'une **Licence en Génie Logiciel** et j'ai acquis une solide expérience en tant que **Prestataire de service informatique**. Mon parcours professionnel m'a permis de développer des compétences techniques avancées et de mener à bien des projets complexes.
 
@@ -76,7 +76,7 @@ Voici les technologies que j'utilise le plus fréquemment dans mes projets :
 
 ## 📈 GitHub Stats
 
-[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeCHOKKI&include_all_commits=true&theme=aura)](https://github.com/MikeCHOKKI/github-readme-stats)
+[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeCHOKKI&include_all_commits=true&theme=aura)]
 
 ---
 
