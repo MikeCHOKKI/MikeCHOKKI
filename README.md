@@ -76,7 +76,7 @@ Voici les technologies que j'utilise le plus fréquemment dans mes projets :
 
 ## 📈 GitHub Stats
 
-![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeCHOKKI&show_icons=true&theme=gruvbox&include_all_commits=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MitkoVtori&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
