@@ -212,12 +212,45 @@ DYNAMIC_STATS_START
 DYNAMIC_STATS_END
 
 <!-- TOP_LANGUAGES_START -->
+
+<div align="center">
+
+### 💻 **Most Used Languages (Live Data)**
+
+
+
+</div>
 <!-- TOP_LANGUAGES_END -->
 
 <!-- TOP_REPOS_START -->
+
+<div align="center">
+
+### 🌟 **Top Repositories**
+
+
+#### [MikeCHOKKI](https://github.com/MikeCHOKKI/MikeCHOKKI) 🔓
+*No description*
+- **Language:** N/A
+- **Stars:** ⭐ 0 | **Forks:** 🍴 0
+
+
+</div>
 <!-- TOP_REPOS_END -->
 
 <!-- RECENT_ACTIVITY_START -->
+
+<div align="center">
+
+### ⚡ **Recent Activity**
+
+- **Pushed 1 commit(s)** in [MikeCHOKKI/MikeCHOKKI] - *5/24/2025*
+- **Pushed 1 commit(s)** in [MikeCHOKKI/MikeCHOKKI] - *5/24/2025*
+- **Pushed 1 commit(s)** in [MikeCHOKKI/MikeCHOKKI] - *5/24/2025*
+- **Pushed 1 commit(s)** in [MikeCHOKKI/MikeCHOKKI] - *5/24/2025*
+- **Forked repository** in [EddieKamau/ussd_advanced] - *5/24/2025*
+
+</div>
 <!-- RECENT_ACTIVITY_END -->
 
 <!-- ### **Contribution Graph** -->
