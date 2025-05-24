@@ -195,12 +195,12 @@ Features: Real-time matching
 
 ## 📊 **GitHub Analytics**
 
-<div align="center">
-  
+<!-- <div align="center">
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikeCHOKKI&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeCHOKKI&layout=compact&langs_count=8&theme=github_dark"/>
-  
-</div>
+
+</div> -->
 
 <div align="center">
   
@@ -208,9 +208,10 @@ Features: Real-time matching
   
 </div>
 
-### **Contribution Graph**
-
+<!-- ### **Contribution Graph** -->
+<!--
 ![Snake animation](https://github.com/MikeCHOKKI/MikeCHOKKI/blob/output/github-contribution-grid-snake.svg)
+ -->
 
 ---
 
@@ -311,7 +312,6 @@ timeline
 ╔══════════════════════════════════════╗
 ║  🚀 Always learning new technologies  ║
 ║  💡 Problem-solving enthusiast        ║
-║  🌍 Tech community contributor        ║
 ║  🎯 Quality-focused developer         ║
 ╚══════════════════════════════════════╝
 ```
