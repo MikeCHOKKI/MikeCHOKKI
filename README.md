@@ -212,9 +212,28 @@ Features: Real-time matching
 <!-- DYNAMIC_STATS_END -->
 
 <!-- TOP_LANGUAGES_START -->
+
+<div align="center">
+
+### 💻 **Most Used Languages (Live Data)**
+
+</div>
 <!-- TOP_LANGUAGES_END -->
 
 <!-- TOP_REPOS_START -->
+
+<div align="center">
+
+### 🌟 **Top Repositories**
+
+#### [MikeCHOKKI](https://github.com/MikeCHOKKI/MikeCHOKKI) 🔓
+
+_No description_
+
+- **Language:** N/A
+- **Stars:** ⭐ 0 | **Forks:** 🍴 0
+
+</div>
 <!-- TOP_REPOS_END -->
 
 <!-- ### **Contribution Graph** -->
