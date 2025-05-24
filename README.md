@@ -209,6 +209,24 @@ Features: Real-time matching
 </div>
 
 <!-- DYNAMIC_STATS_START -->
+
+<div align="center">
+
+### 📊 **Live GitHub Statistics**
+
+| Metric | Value |
+|--------|-------|
+| 📁 Total Repositories | 1 |
+| 🔓 Public Repositories | 1 |
+| 🔒 Private Repositories | 0 |
+| ⭐ Total Stars Earned | 0 |
+| 🍴 Total Forks | 0 |
+| 👀 Total Watchers | 0 |
+| 👥 Followers | 24 |
+
+*Last updated: 5/24/2025*
+
+</div>
 <!-- DYNAMIC_STATS_END -->
 
 <!-- TOP_LANGUAGES_START -->
@@ -216,6 +234,8 @@ Features: Real-time matching
 <div align="center">
 
 ### 💻 **Most Used Languages (Live Data)**
+
+
 
 </div>
 <!-- TOP_LANGUAGES_END -->
@@ -226,12 +246,12 @@ Features: Real-time matching
 
 ### 🌟 **Top Repositories**
 
+
 #### [MikeCHOKKI](https://github.com/MikeCHOKKI/MikeCHOKKI) 🔓
-
-_No description_
-
+*No description*
 - **Language:** N/A
 - **Stars:** ⭐ 0 | **Forks:** 🍴 0
+
 
 </div>
 <!-- TOP_REPOS_END -->
