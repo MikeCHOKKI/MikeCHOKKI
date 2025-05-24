@@ -1,3 +1,5 @@
+# EN MAINTENANCE
+
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm Mike
 
 <div align="center">
@@ -214,17 +216,17 @@ Features: Real-time matching
 
 ### 📊 **Live GitHub Statistics**
 
-| Metric | Value |
-|--------|-------|
-| 📁 Total Repositories | 1 |
-| 🔓 Public Repositories | 1 |
-| 🔒 Private Repositories | 0 |
-| ⭐ Total Stars Earned | 0 |
-| 🍴 Total Forks | 0 |
-| 👀 Total Watchers | 0 |
-| 👥 Followers | 24 |
+| Metric                  | Value |
+| ----------------------- | ----- |
+| 📁 Total Repositories   | 1     |
+| 🔓 Public Repositories  | 1     |
+| 🔒 Private Repositories | 0     |
+| ⭐ Total Stars Earned   | 0     |
+| 🍴 Total Forks          | 0     |
+| 👀 Total Watchers       | 0     |
+| 👥 Followers            | 24    |
 
-*Last updated: 5/24/2025*
+_Last updated: 5/24/2025_
 
 </div>
 <!-- DYNAMIC_STATS_END -->
@@ -235,8 +237,6 @@ Features: Real-time matching
 
 ### 💻 **Most Used Languages (Live Data)**
 
-
-
 </div>
 <!-- TOP_LANGUAGES_END -->
 
@@ -246,12 +246,12 @@ Features: Real-time matching
 
 ### 🌟 **Top Repositories**
 
-
 #### [MikeCHOKKI](https://github.com/MikeCHOKKI/MikeCHOKKI) 🔓
-*No description*
+
+_No description_
+
 - **Language:** N/A
 - **Stars:** ⭐ 0 | **Forks:** 🍴 0
-
 
 </div>
 <!-- TOP_REPOS_END -->
