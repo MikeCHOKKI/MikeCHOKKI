@@ -208,17 +208,14 @@ Features: Real-time matching
   
 </div>
 
-DYNAMIC_STATS_START
-DYNAMIC_STATS_END
+<!-- DYNAMIC_STATS_START -->
+<!-- DYNAMIC_STATS_END -->
 
 <!-- TOP_LANGUAGES_START -->
 <!-- TOP_LANGUAGES_END -->
 
 <!-- TOP_REPOS_START -->
 <!-- TOP_REPOS_END -->
-
-<!-- RECENT_ACTIVITY_START -->
-<!-- RECENT_ACTIVITY_END -->
 
 <!-- ### **Contribution Graph** -->
 <!--
