@@ -29,13 +29,13 @@ jobs:
           npm install @octokit/rest date-fns
 
       - name: Generate Project Stats
-        run: node .github/scripts/generate-stats.js
+        run: node .github/scripts/generate-stats.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
 
       - name: Update README
-        run: node .github/scripts/update-readme.js
+        run: node .github/scripts/update-readme.mjs
 
       - name: Commit changes
         run: |
