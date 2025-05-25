@@ -1,4 +1,14 @@
-# EN MAINTENANCE
+<!-- 🚧 MAINTENANCE BANNER START -->
+
+<div align="center">
+
+![Maintenance](https://img.shields.io/badge/🛠️%20EN%20MAINTENANCE-orange?style=for-the-badge&logo=tools&logoColor=white)
+
+**Ce dépôt est actuellement en maintenance. Certaines sections peuvent être incomplètes ou en cours de mise à jour. Merci de votre compréhension.**
+
+</div>
+
+<!-- 🚧 MAINTENANCE BANNER END -->
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm Mike
 
