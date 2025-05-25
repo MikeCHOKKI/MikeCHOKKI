@@ -27,7 +27,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          npm ci || (npm install)
+          npm ci
           npm install @octokit/rest date-fns --save
 
       - name: Generate Project Stats
