@@ -226,17 +226,17 @@ Features: Real-time matching
 
 ### 📊 **Live GitHub Statistics**
 
-| Metric                  | Value |
-| ----------------------- | ----- |
-| 📁 Total Repositories   | 1     |
-| 🔓 Public Repositories  | 1     |
-| 🔒 Private Repositories | 0     |
-| ⭐ Total Stars Earned   | 0     |
-| 🍴 Total Forks          | 0     |
-| 👀 Total Watchers       | 0     |
-| 👥 Followers            | 24    |
+| Metric | Value |
+|--------|-------|
+| 📁 Total Repositories | 1 |
+| 🔓 Public Repositories | 1 |
+| 🔒 Private Repositories | 0 |
+| ⭐ Total Stars Earned | 0 |
+| 🍴 Total Forks | 0 |
+| 👀 Total Watchers | 0 |
+| 👥 Followers | 24 |
 
-_Last updated: 5/25/2025_
+*Last updated: 5/25/2025*
 
 </div>
 <!-- DYNAMIC_STATS_END -->
