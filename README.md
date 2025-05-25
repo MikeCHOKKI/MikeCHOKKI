@@ -140,11 +140,11 @@ Security: Advanced encryption
 </details>
 
 <details>
-<summary><b>🤝 Coup 2 Main - Task Assistance Network</b></summary>
+<summary><b>🌸 ELLES, l'amie intime de la femme et de la jeune fille.</b></summary>
 
 ### 🎯 **Project Overview**
 
-Application facilitant la mise en relation pour des tâches quotidiennes.
+Une application engagée pour l’autonomisation féminine, qui contribue activement à bâtir une Afrique où chaque femme et chaque jeune fille exerce pleinement ses droits, maîtrise sa santé reproductive, et s’épanouit tant sur le plan économique que professionnel.
 
 ### 🛠️ **Tech Stack**
 
@@ -152,15 +152,14 @@ Application facilitant la mise en relation pour des tâches quotidiennes.
 Frontend: Flutter
 Backend: PHP
 Database: MySQL, Firebase
-Features: Real-time matching
 ```
 
 ### ✨ **Key Features**
 
-- 🔄 Real-time task matching
-- 👥 Community-driven platform
-- 🎯 Location-based services
-- ⭐ Rating & review system
+- 📆 Suivi du cycle menstruel
+- 🎗️ Dépistage du cancer du sein
+- ⚖️ Méthodes contraceptives
+- 🤖 Assistance en ligne
 
 </details>
 
@@ -226,17 +225,17 @@ Features: Real-time matching
 
 ### 📊 **Live GitHub Statistics**
 
-| Metric | Value |
-|--------|-------|
-| 📁 Total Repositories | 1 |
-| 🔓 Public Repositories | 1 |
-| 🔒 Private Repositories | 0 |
-| ⭐ Total Stars Earned | 0 |
-| 🍴 Total Forks | 0 |
-| 👀 Total Watchers | 0 |
-| 👥 Followers | 24 |
+| Metric                  | Value |
+| ----------------------- | ----- |
+| 📁 Total Repositories   | 1     |
+| 🔓 Public Repositories  | 1     |
+| 🔒 Private Repositories | 0     |
+| ⭐ Total Stars Earned   | 0     |
+| 🍴 Total Forks          | 0     |
+| 👀 Total Watchers       | 0     |
+| 👥 Followers            | 24    |
 
-*Last updated: 5/25/2025*
+_Last updated: 5/25/2025_
 
 </div>
 <!-- DYNAMIC_STATS_END -->
