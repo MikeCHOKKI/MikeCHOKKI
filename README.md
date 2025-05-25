@@ -225,17 +225,17 @@ Database: MySQL, Firebase
 
 ### 📊 **Live GitHub Statistics**
 
-| Metric | Value |
-|--------|-------|
-| 📁 Total Repositories | 1 |
-| 🔓 Public Repositories | 1 |
-| 🔒 Private Repositories | 0 |
-| ⭐ Total Stars Earned | 0 |
-| 🍴 Total Forks | 0 |
-| 👀 Total Watchers | 0 |
-| 👥 Followers | 24 |
+| Metric                  | Value |
+| ----------------------- | ----- |
+| 📁 Total Repositories   | 1     |
+| 🔓 Public Repositories  | 1     |
+| 🔒 Private Repositories | 0     |
+| ⭐ Total Stars Earned   | 0     |
+| 🍴 Total Forks          | 0     |
+| 👀 Total Watchers       | 0     |
+| 👥 Followers            | 24    |
 
-*Last updated: 5/25/2025*
+_Last updated: 5/25/2025_
 
 </div>
 <!-- DYNAMIC_STATS_END -->
@@ -359,5 +359,14 @@ timeline
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
   
 </div>
+
+---
+
+---
+
+</div><!-- WORKFLOW_CREDITS_START --><div align="right" style="margin-top: 2rem">
+🤖 Maintenu automatiquement par GitHub Actions
+
+</div> <!-- WORKFLOW_CREDITS_END -->
 
 ---

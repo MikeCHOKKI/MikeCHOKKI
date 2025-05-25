@@ -6,41 +6,47 @@ on:
     - cron: "0 6 * * *"
   workflow_dispatch:
   push:
-    branches: [main, master]
+    branches:
+      - main
+      - master
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Setup Node.js
+      - name: Setup Node.js environment
         uses: actions/setup-node@v4
         with:
-          node-js-version: "18"
+          node-version: "18.x"
 
       - name: Install dependencies
         run: |
-          npm init -y
-          npm install @octokit/rest date-fns
+          npm ci || (npm install)
+          npm install @octokit/rest date-fns --save
 
       - name: Generate Project Stats
-        run: node .github/scripts/generate-stats.js
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
+        run: node .github/scripts/generate-stats.js
 
-      - name: Update README
+      - name: Update README file
         run: node .github/scripts/update-readme.js
 
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git diff --staged --quiet || git commit -m "🤖 Update README with latest project stats"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "🤖 Update README with latest project stats"
+            git push
+          else
+            echo "No changes to commit"
+          fi
