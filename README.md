@@ -227,15 +227,15 @@ Database: MySQL, Firebase
 
 | Metric | Value |
 |--------|-------|
-| 📁 Total Repositories | 1 |
-| 🔓 Public Repositories | 1 |
+| 📁 Total Repositories | 2 |
+| 🔓 Public Repositories | 2 |
 | 🔒 Private Repositories | 0 |
 | ⭐ Total Stars Earned | 0 |
 | 🍴 Total Forks | 0 |
 | 👀 Total Watchers | 0 |
 | 👥 Followers | 29 |
 
-*Last updated: 6/5/2025*
+*Last updated: 6/6/2025*
 
 </div>
 <!-- DYNAMIC_STATS_END -->
