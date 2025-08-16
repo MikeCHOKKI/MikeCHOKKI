@@ -46,6 +46,9 @@
 </td>
 <td style="width: 50%;">
 <pre style="text-align: right; margin: 0;">
+
+### 🎓 **Informations personnelles**
+
 📍 Cotonou, Vedoko, Bénin
 🕒 Fuseau : WAT (UTC+1)
 🗣️ Français • Anglais • Japonais • Portugais
