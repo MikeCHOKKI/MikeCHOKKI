@@ -233,7 +233,7 @@ Projet personnel axé sur l'innovation technologique pour le marché africain.
 | ⭐ Total Stars Earned | 0 |
 | 🍴 Total Forks | 1 |
 | 👀 Total Watchers | 0 |
-| 👥 Followers | 106 |
+| 👥 Followers | 107 |
 
 *Last updated: 8/16/2025*
 
@@ -246,7 +246,7 @@ Projet personnel axé sur l'innovation technologique pour le marché africain.
 
 ### 💻 **Most Used Languages (Live Data)**
 
-*Données en cours de collecte...*
+1. **TypeScript** - 100.0%
 
 </div>
 <!-- TOP_LANGUAGES_END -->
@@ -257,7 +257,18 @@ Projet personnel axé sur l'innovation technologique pour le marché africain.
 
 ### 🌟 **Top Repositories**
 
-*Données en cours de collecte...*
+
+#### [MikeCHOKKI](https://github.com/MikeCHOKKI/MikeCHOKKI) 🔓
+*No description*
+- **Language:** N/A
+- **Stars:** ⭐ 0 | **Forks:** 🍴 0
+
+
+#### [yt-downloader](https://github.com/MikeCHOKKI/yt-downloader) 🔓
+*YT Downloader est une application CLI interactive permettant de télécharger des vidéos et playlists YouTube avec des fonctionnalités avancées. Contrairement aux outils classiques, elle propose une interface intuitive avec des menus interactifs, une gestion des configurations persistantes et une expérience de téléchargement améliorée.*
+- **Language:** TypeScript
+- **Stars:** ⭐ 0 | **Forks:** 🍴 1
+
 
 </div>
 <!-- TOP_REPOS_END -->
@@ -268,7 +279,11 @@ Projet personnel axé sur l'innovation technologique pour le marché africain.
 
 ### ⚡ **Recent Activity**
 
-*Données en cours de collecte...*
+- **Pushed 1 commit(s)** in [MikeCHOKKI/MikeCHOKKI] - *8/16/2025*
+- **Pushed 1 commit(s)** in [MikeCHOKKI/MikeCHOKKI] - *8/16/2025*
+- **Pushed 1 commit(s)** in [MikeCHOKKI/MikeCHOKKI] - *8/15/2025*
+- **Pushed 1 commit(s)** in [MikeCHOKKI/MikeCHOKKI] - *8/14/2025*
+- **Starred repository** in [leewr9/leewr9.github.io] - *8/13/2025*
 
 </div>
 <!-- RECENT_ACTIVITY_END -->
