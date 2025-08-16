@@ -30,11 +30,12 @@
 
 </div>
 
-<table align="left">
+<table align="center">
 <tr>
-<td align="center" width="50%">
+<td style="text-align: left; width: 50%;">
 
 ### 🎓 **Formation & Carrière**
+
 ```
 🎯 Licence en Génie Logiciel
 💼 Chef d'exploitation @ RAB-TECH
@@ -46,6 +47,7 @@
 <td align="center" width="50%">
 
 ### 🌍 **Informations Personnelles**
+
 ```
 📍 Cotonou, Vedoko, Bénin
 🕒 Fuseau : WAT (UTC+1)
@@ -453,6 +455,7 @@ timeline
 <td align="center" width="50%">
 
 ### 🎯 **Ma Mission**
+
 ```
 🚀 Démocratiser l'innovation tech en Afrique
 📱 Créer des solutions impactantes
@@ -464,6 +467,7 @@ timeline
 <td align="center" width="50%">
 
 ### 🌟 **Ma Vision**
+
 ```
 🏆 Devenir référence tech africaine
 🤝 Collaborations internationales
