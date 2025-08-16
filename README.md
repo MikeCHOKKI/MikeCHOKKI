@@ -31,22 +31,21 @@
 </div>
 
 <table align="center">
-<tr>
-<td style="text-align: left; width: 50%;">
-
+<td style="width: 50%;">
+</tr>
+<pre style="text-align: right; margin: 0;">
 ### 🎓 **Formation & Carrière**
 
-```
 🎯 Licence en Génie Logiciel
 💼 Chef d'exploitation @ RAB-TECH
 🚀 Développeur Full Stack Expert
 📱 Spécialiste développement mobile
-```
-
+</pre>
 </td>
+</tr>
 <td style="width: 50%;">
+</tr>
 <pre style="text-align: right; margin: 0;">
-
 ### 🎓 **Informations personnelles**
 
 📍 Cotonou, Vedoko, Bénin
