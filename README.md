@@ -44,17 +44,13 @@
 ```
 
 </td>
-<td style="text-align: right; width: 50%;">
-
-### 🌍 **Informations Personnelles**
-
-```
+<td style="width: 50%;">
+<pre style="text-align: right; margin: 0;">
 📍 Cotonou, Vedoko, Bénin
 🕒 Fuseau : WAT (UTC+1)
 🗣️ Français • Anglais • Japonais • Portugais
 ⚡ Passionné d'innovation africaine
-```
-
+</pre>
 </td>
 </tr>
 </table>
