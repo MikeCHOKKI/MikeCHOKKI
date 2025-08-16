@@ -44,7 +44,7 @@
 ```
 
 </td>
-<td align="center" width="50%">
+<td style="text-align: right; width: 50%;">
 
 ### 🌍 **Informations Personnelles**
 
