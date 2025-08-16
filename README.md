@@ -30,7 +30,7 @@
 
 </div>
 
-<table align="center">
+<table align="left">
 <tr>
 <td align="center" width="50%">
 
@@ -86,8 +86,6 @@
 ⚡ Interface intuitive et performante
 ```
 
-**Technologies :** Flutter • Firebase • Node.js • React
-
 [🌐 Découvrir Buzup](https://buzup.app/)
 
 </details>
@@ -110,8 +108,6 @@
 
 **Impact :** Développée par IHSB pour promouvoir la santé des femmes africaines
 
-**Technologies :** Flutter • AI/ML • Firebase • API Médicale
-
 </details>
 
 <details>
@@ -128,8 +124,6 @@
 ⚡ Transactions instantanées
 🌍 Optimisé pour le marché africain
 ```
-
-**Technologies :** React • Blockchain APIs • Payment Gateway • Security
 
 [💱 Trader maintenant](https://xoftrader.com/)
 
@@ -151,8 +145,6 @@
 ✅ Certification reconnue
 ```
 
-**Technologies :** Next.js • Video Streaming • LMS • Progressive Web App
-
 [📚 Commencer la formation](https://success-delivery.com/)
 
 </details>
@@ -171,8 +163,6 @@
 💰 Facilitation de financement
 🌐 Réseau panafricain d'investisseurs
 ```
-
-**Technologies :** React • Database Management • Matching Algorithm • Analytics
 
 [🚀 Candidater maintenant](https://afri-startup.com/)
 
@@ -196,8 +186,6 @@
 
 **Innovation :** Première plateforme juridique audio au monde
 
-**Technologies :** AI Voice • Search Engine • Database • Mobile App
-
 [⚖️ Explorer TOSSIN](https://tossin.app/)
 
 </details>
@@ -217,9 +205,7 @@
 🌟 Innovation et créativité
 ```
 
-**Technologies :** Full Stack • Custom Solutions • Modern Architecture
-
-[⚔️ Découvrir mes solutions](https://lucid-code-forge.vercel.app/)
+[⚔️ Commander votre application](https://lucid-code-forge.vercel.app/)
 
 </details>
 
