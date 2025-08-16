@@ -13,11 +13,11 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm Mike
 
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Passionate+Software+Engineer;Full+Stack+Developer;IT+Operations+Manager;Tech+Enthusiast)
-  
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Passionate+Software+Engineer;Full+Stack+Developer;IT+Operations+Manager;Tech+Enthusiast)
+
   <img src="https://komarev.com/ghpvc/?username=MikeCHOKKI&style=flat-square&color=blue" alt="Profile Views"/>
-  
+
 </div>
 
 ---
@@ -214,9 +214,9 @@ Database: MySQL, Firebase
 </div> -->
 
 <div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikeCHOKKI&theme=dark&hide_border=false)
-  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikeCHOKKI&theme=dark&hide_border=false)
+
 </div>
 
 <!-- DYNAMIC_STATS_START -->
@@ -233,9 +233,9 @@ Database: MySQL, Firebase
 | ⭐ Total Stars Earned | 0 |
 | 🍴 Total Forks | 1 |
 | 👀 Total Watchers | 0 |
-| 👥 Followers | 104 |
+| 👥 Followers | 106 |
 
-*Last updated: 8/15/2025*
+*Last updated: 8/16/2025*
 
 </div>
 <!-- DYNAMIC_STATS_END -->
@@ -353,11 +353,11 @@ timeline
 ---
 
 <div align="center">
-  
-  **Thanks for visiting my profile! Let's build something amazing together! 🚀**
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-  
+
+**Thanks for visiting my profile! Let's build something amazing together! 🚀**
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
 </div>
 
 ---
