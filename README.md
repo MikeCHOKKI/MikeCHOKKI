@@ -1,47 +1,38 @@
-<!-- 🚧 MAINTENANCE BANNER START -->
+# <div align="center">👋 Hello, I'm Mike CHOKKI</div>
 
 <div align="center">
 
-![Maintenance](https://img.shields.io/badge/🛠️%20EN%20MAINTENANCE-orange?style=for-the-badge&logo=tools&logoColor=white)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Mike%20CHOKKI&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%26%20Mobile%20Developer&descAlignY=55&descSize=18)
 
-**Ce dépôt est actuellement en maintenance. Certaines sections peuvent être incomplètes ou en cours de mise à jour. Merci de votre compréhension.**
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Développeur+Full+Stack;Spécialisé+Mobile+%26+Web;Passionné+par+l'innovation" alt="Typing SVG" />
 
-</div>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ekimart.ovh-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://www.ekimart.ovh/)
+[![Email](https://img.shields.io/badge/📧_Contact-mikechokki5@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikechokki5@gmail.com)
 
-<!-- 🚧 MAINTENANCE BANNER END -->
+<img src="https://komarev.com/ghpvc/?username=MikeCHOKKI&style=for-the-badge&color=667eea" alt="Profile Views"/>
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm Mike
-
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Passionate+Software+Engineer;Full+Stack+Developer;IT+Operations+Manager;Tech+Enthusiast)
-  
-  <img src="https://komarev.com/ghpvc/?username=MikeCHOKKI&style=flat-square&color=blue" alt="Profile Views"/>
-  
 </div>
 
 ---
 
-## 🎯 **Professional Overview**
+## 🎯 **À Propos**
 
 <table>
 <tr>
 <td>
 
-**🎓 Background**
-
+**🎓 Formation & Expérience**
 - Licence en Génie Logiciel
-- Prestataire de service informatique
 - Chef d'exploitation informatique @ RAB-TECH
+- Développeur Full Stack spécialisé mobile
 
 </td>
 <td>
 
-**🌍 Location**
-
-- 📍 Cotonou, Vedoko
-- 🕒 Timezone: WAT (UTC+1)
-- 🗣️ Languages: French, English
+**🌍 Informations**
+- 📍 Cotonou, Vedoko, Bénin
+- 🕒 Fuseau : WAT (UTC+1)
+- 🗣️ Français, Anglais, Japonais, Portugais
 
 </td>
 </tr>
@@ -49,149 +40,162 @@
 
 ---
 
-## 🚀 **Featured Projects**
+## 🚀 **Projets & Collaborations**
+
+<div align="center">
+
+### 📱 **Applications sur lesquelles j'ai collaboré**
+
+</div>
 
 <details>
-<summary><b>📱 Buzup - Business-Client Connection Platform</b></summary>
+<summary><b>🎯 Buzup - Écosystème d'Applications</b></summary>
 
-### 🎯 **Project Overview**
+<div align="center">
 
-Application mobile et desktop cross-platform facilitant la mise en relation entre entreprises et clients.
+[![Buzup](https://img.shields.io/badge/🌐_Buzup-buzup.app-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://buzup.app/)
 
-### 🛠️ **Tech Stack**
+</div>
 
-```yaml
-Frontend: Flutter
-Backend: PHP
-Database: MySQL, Firebase
-Authentication: Firebase Auth
-Hosting: Custom Infrastructure
-```
+**À propos :** Buz'Up est un écosystème d'applications interconnectées qui simplifient la gestion de vos activités. Avec des outils intuitifs et performants, il vous aide à gagner du temps et à optimiser vos tâches de tous les jours.
 
-### ✨ **Key Features**
-
-- 🔐 Secure Firebase Authentication
-- 🛡️ PHP-powered secure API
-- 📱 Cross-platform compatibility
-- 🎨 Modern UI/UX design
-
-### 🔗 **Links**
-
-[![Website](https://img.shields.io/badge/🌐_Website-buzup.app-blue?style=for-the-badge)](https://buzup.app/)
+**Spécificités :**
+- Interface claire et intuitive pour centraliser les informations d'entreprise
+- Gestion des apparitions, consultations, produits, événements et statistiques
+- Disponible sur tous les appareils : Android, iOs, Huawei, téléphones, tablettes et ordinateurs
 
 </details>
 
 <details>
-<summary><b>📚 Success-Delivery - E-Learning Platform</b></summary>
+<summary><b>🌸 ELLES - Application de Santé Féminine</b></summary>
 
-### 🎯 **Project Overview**
+<div align="center">
 
-Plateforme mobile et web pour l'apprentissage de cours en ligne.
+[![ELLES](https://img.shields.io/badge/🌸_ELLES-elles.app-FF69B4?style=for-the-badge&logo=heart&logoColor=white)](https://elles.app/)
 
-### 🛠️ **Tech Stack**
+</div>
 
-```yaml
-Frontend: Flutter, Web Interface
-Backend: PHP
-Database: MySQL, Firebase
-Authentication: Firebase Auth
-```
+**Mission :** ELLES est une application qui agit sur la prévention à travers 3 piliers principaux: l'accès à l'information fiable, le conseil médical et bientôt la distribution de produits
 
-### ✨ **Key Features**
+**Développée par :** Innovative Health Solutions Benin (IHSB) - une entreprise sociale utilisant l'innovation pour promouvoir la santé des femmes et des filles et combattre les inégalités du genre en matière de santé
 
-- 📖 Interactive learning modules
-- 👥 Multi-user support
-- 📊 Progress tracking
-- 🔄 Real-time synchronization
+**Fonctionnalités principales :**
+- 📅 Suivi du cycle menstruel
+- 🎗️ Dépistage du cancer du sein avec l'auto-palpation
+- ⚖️ Information sur les méthodes contraceptives
+- 🤖 Assistance en ligne pour les préoccupations sur la santé sexuelle et reproductive
 
-### 🔗 **Links**
-
-[![Website](https://img.shields.io/badge/🌐_Website-success--delivery.com-green?style=for-the-badge)](https://success-delivery.com/)
+**Impact :** ELLES est la première application exclusivement dédiée à la santé de la femme au Bénin
 
 </details>
 
 <details>
-<summary><b>💱 Xof Trader - Cryptocurrency Exchange</b></summary>
+<summary><b>💱 XOF Trader - Plateforme Crypto</b></summary>
 
-### 🎯 **Project Overview**
+<div align="center">
 
-Application mobile dédiée à l'échange sécurisé de cryptomonnaies.
+[![Xof Trader](https://img.shields.io/badge/💱_Xof_Trader-xoftrader.com-FF8C00?style=for-the-badge&logo=bitcoin&logoColor=white)](https://xoftrader.com/)
 
-### 🛠️ **Tech Stack**
+</div>
 
-```yaml
-Frontend: Flutter
-Backend: PHP
-Database: MySQL, Firebase
-Security: Advanced encryption
-```
+**Focus :** Convertissez vos cryptomonnaies en mobile money
 
-### ✨ **Key Features**
-
-- ₿ Secure crypto trading
-- 📈 Real-time market data
-- 🔒 Multi-layer security
-- 📱 Responsive mobile design
-
-### 🔗 **Links**
-
-[![Website](https://img.shields.io/badge/🌐_Website-xoftrader.com-orange?style=for-the-badge)](https://app.xoftrader.com/)
+Plateforme spécialisée dans l'échange de cryptomonnaies avec intégration du mobile money pour le marché africain.
 
 </details>
 
 <details>
-<summary><b>🌸 ELLES, l'amie intime de la femme et de la jeune fille.</b></summary>
+<summary><b>📚 Success Delivery - Plateforme de Formation</b></summary>
 
-### 🎯 **Project Overview**
+<div align="center">
 
-Une application engagée pour l’autonomisation féminine, qui contribue activement à bâtir une Afrique où chaque femme et chaque jeune fille exerce pleinement ses droits, maîtrise sa santé reproductive, et s’épanouit tant sur le plan économique que professionnel.
+[![Success Delivery](https://img.shields.io/badge/📚_Success_Delivery-success--delivery.com-28A745?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://success-delivery.com/)
 
-### 🛠️ **Tech Stack**
+</div>
 
-```yaml
-Frontend: Flutter
-Backend: PHP
-Database: MySQL, Firebase
-```
+**Spécialisation :** Formation de chauffeur-livreur flexible, 100% en ligne
 
-### ✨ **Key Features**
+**Caractéristiques :**
+- Formation certifiée Qualiopi
+- 100% à distance, à votre rythme
+- Formation de 7h selon votre propre rythme
+- Accessible depuis mobile avec vidéos courtes et ciblées
 
-- 📆 Suivi du cycle menstruel
-- 🎗️ Dépistage du cancer du sein
-- ⚖️ Méthodes contraceptives
-- 🤖 Assistance en ligne
+</details>
+
+<details>
+<summary><b>🚀 Afri Startup - Hub Entrepreneurial</b></summary>
+
+<div align="center">
+
+[![Afri Startup](https://img.shields.io/badge/🚀_Afri_Startup-afri--startup.com-9C27B0?style=for-the-badge&logo=rocket&logoColor=white)](https://afri-startup.com/)
+
+</div>
+
+**Objectif :** Vous cherchez du financement pour votre projet innovant? Candidatez maintenant et profitez de notre réseau d'investisseurs
+
+Plateforme dédiée à la connexion entre entrepreneurs africains et investisseurs.
+
+</details>
+
+<details>
+<summary><b>⚖️ TOSSIN - Base de Données Juridique</b></summary>
+
+<div align="center">
+
+[![Tossin](https://img.shields.io/badge/⚖️_TOSSIN-tossin.app-FF5722?style=for-the-badge&logo=balance-scale&logoColor=white)](https://tossin.app/)
+
+</div>
+
+**Mission :** TOSSIN est la base de données des Lois, Codes, Traités des pays du monde en texte et en Audio. Notre vocation est de permettre un accès plus facile des citoyens aux textes juridiques de leur pays.
+
+Innovation majeure : **5000 Lois et Codes en audio** pour faciliter l'accès au droit.
+
+</details>
+
+<details>
+<summary><b>⚔️ LucidCodeForge - Solutions Tech</b></summary>
+
+<div align="center">
+
+[![LucidCodeForge](https://img.shields.io/badge/⚔️_LucidCodeForge-lucid--code--forge.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lucid-code-forge.vercel.app/)
+
+</div>
+
+**Vision :** Solutions technologiques sur-mesure pour l'Afrique
+
+Projet personnel axé sur l'innovation technologique pour le marché africain.
 
 </details>
 
 ---
 
-## 💻 **Technical Arsenal**
+## 💻 **Stack Technologique**
 
 <div align="center">
 
-### **Languages & Frameworks**
+### **Langages & Frameworks**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### **Frontend Technologies**
+### **Frontend & Mobile**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### **Backend & Frameworks**
+### **Backend & Databases**
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-### **Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### **DevOps & Tools**
@@ -204,19 +208,15 @@ Database: MySQL, Firebase
 
 ---
 
-## 📊 **GitHub Analytics**
-
-<!-- <div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikeCHOKKI&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeCHOKKI&layout=compact&langs_count=8&theme=github_dark"/>
-
-</div> -->
+## 📊 **Statistiques GitHub**
 
 <div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikeCHOKKI&theme=dark&hide_border=false)
-  
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikeCHOKKI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeCHOKKI&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9"/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MikeCHOKKI&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=667eea&currStreakLabel=667eea)
+
 </div>
 
 <!-- DYNAMIC_STATS_START -->
@@ -240,112 +240,151 @@ Database: MySQL, Firebase
 </div>
 <!-- DYNAMIC_STATS_END -->
 
-<!-- ### **Contribution Graph** -->
-<!--
-![Snake animation](https://github.com/MikeCHOKKI/MikeCHOKKI/blob/output/github-contribution-grid-snake.svg)
- -->
-
----
-
-## 🎯 **Most Used Tech Stack**
+<!-- TOP_LANGUAGES_START -->
 
 <div align="center">
 
-```mermaid
-graph TD
-    A[Mobile Development] --> B[Flutter]
-    A --> C[Dart]
+### 💻 **Most Used Languages (Live Data)**
 
-    D[Backend Development] --> E[PHP]
-    D --> F[Node.js]
-    D --> G[Python]
-
-    H[Database] --> I[Firebase]
-    H --> J[MySQL]
-    H --> K[PostgreSQL]
-
-    L[DevOps] --> M[Docker]
-    L --> N[Vercel]
-    L --> O[Firebase Hosting]
-```
+*Données en cours de collecte...*
 
 </div>
+<!-- TOP_LANGUAGES_END -->
 
----
-
-## 🏆 **Professional Experience Matrix**
-
-<table align="center">
-<tr>
-<th>Domain</th>
-<th>Experience Level</th>
-<th>Key Skills</th>
-</tr>
-<tr>
-<td>🏗️ Software Architecture</td>
-<td>⭐⭐⭐⭐⭐</td>
-<td>System Design, Scalable Solutions</td>
-</tr>
-<tr>
-<td>📱 Mobile Development</td>
-<td>⭐⭐⭐⭐⭐</td>
-<td>Flutter, Cross-platform Apps</td>
-</tr>
-<tr>
-<td>🌐 Backend Development</td>
-<td>⭐⭐⭐⭐⭐</td>
-<td>PHP, Node.js, API Design</td>
-</tr>
-<tr>
-<td>🗄️ Database Management</td>
-<td>⭐⭐⭐⭐</td>
-<td>MySQL, Firebase, PostgreSQL</td>
-</tr>
-<tr>
-<td>🔧 IT Operations</td>
-<td>⭐⭐⭐⭐⭐</td>
-<td>Infrastructure, Team Management</td>
-</tr>
-</table>
-
----
-
-## 🌐 **Connect With Me**
+<!-- TOP_REPOS_START -->
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikechokki5@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikechokki)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MikeCHOKKI)
+### 🌟 **Top Repositories**
+
+*Données en cours de collecte...*
 
 </div>
+<!-- TOP_REPOS_END -->
+
+<!-- RECENT_ACTIVITY_START -->
+
+<div align="center">
+
+### ⚡ **Recent Activity**
+
+*Données en cours de collecte...*
+
+</div>
+<!-- RECENT_ACTIVITY_END -->
 
 ---
 
-## 📈 **Activity Timeline**
+## 🎓 **Parcours Professionnel**
+
+<div align="center">
 
 ```mermaid
 timeline
-    title Professional Journey
-    2020    : Licence en Génie Logiciel
-    2021    : Prestataire de service informatique
-    2022    : Multiple Flutter Projects
-    2023    : Chef d'exploitation informatique
-    2024    : Advanced IT Infrastructure Management
+    title Parcours & Évolution
+    
+    section Formation
+        2020 : Licence en Génie Logiciel
+             : Fondation académique solide
+    
+    section Débuts Professionnels
+        2021 : Prestataire de service informatique
+             : Conseil et développement sur mesure
+             
+        2022 : Projets Flutter multiples
+             : Spécialisation développement mobile
+    
+    section Leadership
+        2023 : Chef d'exploitation informatique @ RAB-TECH
+             : Gestion d'infrastructures et équipes
+             
+        2024 : Collaborations multiples
+             : Projets variés : santé, fintech, éducation
+             
+    section Présent
+        2025 : Développeur Full Stack
+             : 8 projets en collaboration
+             : Portfolio diversifié
 ```
+
+</div>
 
 ---
 
-## 🎨 **Fun Facts & Interests**
+## 🏆 **Domaines d'Expertise**
+
+<div align="center">
+
+<table>
+<tr>
+<th>🎯 Domaine</th>
+<th>📊 Expérience</th>
+<th>🔧 Technologies Clés</th>
+</tr>
+<tr>
+<td>📱 **Développement Mobile**</td>
+<td>⭐⭐⭐⭐⭐</td>
+<td>Flutter, Dart, Cross-platform</td>
+</tr>
+<tr>
+<td>🌐 **Développement Web**</td>
+<td>⭐⭐⭐⭐⭐</td>
+<td>React, Next.js, TypeScript</td>
+</tr>
+<tr>
+<td>🔧 **Backend Development**</td>
+<td>⭐⭐⭐⭐</td>
+<td>Node.js, PHP, Python, APIs</td>
+</tr>
+<tr>
+<td>🗄️ **Bases de Données**</td>
+<td>⭐⭐⭐⭐</td>
+<td>MySQL, PostgreSQL, Firebase</td>
+</tr>
+<tr>
+<td>☁️ **DevOps & Déploiement**</td>
+<td>⭐⭐⭐⭐</td>
+<td>Docker, Vercel, CI/CD</td>
+</tr>
+<tr>
+<td>👥 **Gestion IT**</td>
+<td>⭐⭐⭐⭐⭐</td>
+<td>Infrastructure, Leadership d'équipe</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🌐 **Me Contacter**
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio_Complet-ekimart.ovh-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://www.ekimart.ovh/)
+[![Email](https://img.shields.io/badge/📧_Email-mikechokki5@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikechokki5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikechokki)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MikeCHOKKI)
+
+**📍 Localisation :** Cotonou, Vedoko, Bénin  
+**🕒 Fuseau horaire :** WAT (UTC+1)  
+**🗣️ Langues :** Français, Anglais, Japonais, Portugais
+
+</div>
+
+---
+
+## 💡 **Centres d'Intérêt**
 
 <div align="center">
 
 ```ascii
-╔══════════════════════════════════════╗
-║  🚀 Always learning new technologies  ║
-║  💡 Problem-solving enthusiast        ║
-║  🎯 Quality-focused developer         ║
-╚══════════════════════════════════════╝
+╔══════════════════════════════════════════════════╗
+║  🚀 Innovation technologique pour l'Afrique      ║
+║  📱 Applications mobiles cross-platform          ║
+║  🎯 Solutions pratiques aux défis locaux         ║
+║  🌍 Impact social par la technologie             ║
+╚══════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -353,20 +392,17 @@ timeline
 ---
 
 <div align="center">
-  
-  **Thanks for visiting my profile! Let's build something amazing together! 🚀**
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-  
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer)
+
+**✨ Merci de visiter mon profil ! Toujours ouvert aux collaborations sur des projets innovants ! 🚀**
+
+---
+
+<div align="right" style="margin-top: 2rem">
+
+🤖 **Maintenu automatiquement par GitHub Actions**
+
 </div>
 
----
-
----
-
-</div><!-- WORKFLOW_CREDITS_START --><div align="right" style="margin-top: 2rem">
-🤖 Maintenu automatiquement par GitHub Actions
-
-</div> <!-- WORKFLOW_CREDITS_END -->
-
----
+</div>
