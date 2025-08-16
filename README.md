@@ -233,7 +233,7 @@ Database: MySQL, Firebase
 | ⭐ Total Stars Earned | 0 |
 | 🍴 Total Forks | 1 |
 | 👀 Total Watchers | 0 |
-| 👥 Followers | 106 |
+| 👥 Followers | 107 |
 
 *Last updated: 8/16/2025*
 
