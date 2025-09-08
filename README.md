@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![committers.top badge](https://user-badge.committers.top/BENIN/MikeCHOKKI.svg)](https://user-badge.committers.top/REGION/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/benin/MikeCHOKKI.svg)](https://user-badge.committers.top/REGION/USERNAME)
 
 **Ce dépôt est actuellement en maintenance. Certaines sections peuvent être incomplètes ou en cours de mise à jour. Merci de votre compréhension.**
 
