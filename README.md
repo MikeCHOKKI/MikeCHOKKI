@@ -53,7 +53,8 @@ Frontend: Flutter
 Backend: PHP
 Database: MySQL, Firebase
 Authentication: Firebase Auth
-Hosting: Custom Infrastructure
+AI & ML: Hugging Face
+DevOps & Tools: Custom Infrastructure
 ```
 
 ### ✨ **Key Features**
@@ -83,6 +84,7 @@ Frontend: Flutter, Web Interface
 Backend: PHP
 Database: MySQL, Firebase
 Authentication: Firebase Auth
+DevOps & Tools: Custom Infrastructure
 ```
 
 ### ✨ **Key Features**
@@ -112,6 +114,7 @@ Frontend: Flutter
 Backend: PHP
 Database: MySQL, Firebase
 Security: Advanced encryption
+DevOps & Tools: Custom Infrastructure
 ```
 
 ### ✨ **Key Features**
@@ -140,6 +143,7 @@ Une application engagée pour l’autonomisation féminine, qui contribue active
 Frontend: Flutter
 Backend: PHP
 Database: MySQL, Firebase
+DevOps & Tools: Custom Infrastructure
 ```
 
 ### ✨ **Key Features**
@@ -151,6 +155,34 @@ Database: MySQL, Firebase
 
 </details>
 
+<details>
+<summary><b>⚙️ LucidCodeForge — Développement d’applications sur mesure.</b></summary>
+
+### 🎯 **Project Overview**
+
+LucidCodeForge est une société spécialisée dans la conception de solutions technologiques modernes, performantes et évolutives.
+Nous transformons vos idées en produits concrets : applications mobiles, web, desktop et backends robustes, avec une approche centrée sur la qualité, la scalabilité et l’expérience utilisateur.
+
+### 🛠️ **Tech Stack**
+
+```yaml
+Frontend: Next.js
+Database: Supabase
+DevOps & Tools: Lovable, Vercel
+```
+
+### ✨ **Key Features**
+
+- 🚀 Développement d’applications sur mesure
+- 🌐 Applications web dynamiques et SEO-friendly
+- 📱 Applications mobiles multiplateformes (Android & iOS)
+- 🖥️ Applications desktop performantes (Windows, Linux, macOS)
+- 🧠 Intégration d’IA et automatisations
+- ☁️ Déploiement cloud et gestion d’infrastructure
+- 🧩 Code propre, documenté et scalable
+- 🤝 Accompagnement humain 24/7
+
+</details>
 ---
 
 ## 💻 **Technical Arsenal**
