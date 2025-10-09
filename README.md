@@ -315,11 +315,11 @@ graph TD
 ```mermaid
 timeline
     title Professional Journey
-    2020    : Licence en Génie Logiciel
+    2020    : Freelancer
     2021    : Prestataire de service informatique
-    2022    : Multiple Flutter Projects
-    2023    : Chef d'exploitation informatique
-    2024    : Advanced IT Infrastructure Management
+    2022    : Licence en Génie Logiciel
+    2023    : Prestataire de service informatique
+    2024    : Chef d'exploitation technique
 ```
 
 ---
