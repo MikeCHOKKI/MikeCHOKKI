@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm Mike CHOKKI
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm Mike
 
 <div align="center">
 
@@ -347,11 +347,11 @@ graph TD
 ```mermaid
 timeline
     title Professional Journey
-    2020    : Freelancer
-    2021    : Prestataire de service informatique
-    2022    : Licence en Génie Logiciel
-    2023    : Prestataire de service informatique
-    2024    : Chef d'exploitation technique
+    2020-2021    : Licence en Génie Logiciel
+    2021-2022    : Prestataire de service informatique
+    2022-2023    : Multiple Flutter Projects
+    2023-2024    : Chef d'exploitation informatique
+    2024-2025    : Advanced IT Infrastructure Management
 ```
 
 ---
