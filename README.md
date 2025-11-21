@@ -349,9 +349,10 @@ timeline
     title Professional Journey
     2020-2021    : Licence en Génie Logiciel
     2021-2022    : Prestataire de service informatique
-    2022-2023    : Multiple Flutter Projects
-    2023-2024    : Chef d'exploitation informatique
-    2024-2025    : Advanced IT Infrastructure Management
+    2022-2024    : Multiple Flutter Projects
+    2023-2024    : Designer Textile CAD
+    2024-2025    : Chef d'exploitation informatique
+    2023-2025    : Advanced IT Infrastructure Management
 ```
 
 ---
