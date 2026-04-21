@@ -247,15 +247,15 @@ DevOps & Tools: Lovable, Vercel
 
 | Metric | Value |
 |--------|-------|
-| 📁 Total Repositories | 3 |
-| 🔓 Public Repositories | 3 |
+| 📁 Total Repositories | 5 |
+| 🔓 Public Repositories | 5 |
 | 🔒 Private Repositories | 0 |
 | ⭐ Total Stars Earned | 0 |
 | 🍴 Total Forks | 1 |
 | 👀 Total Watchers | 0 |
-| 👥 Followers | 240 |
+| 👥 Followers | 242 |
 
-*Last updated: 4/2/2026*
+*Last updated: 4/21/2026*
 
 </div>
 <!-- DYNAMIC_STATS_END -->
