@@ -183,6 +183,33 @@ DevOps & Tools: Lovable, Vercel
 - 🤝 Accompagnement humain 24/7
 
 </details>
+
+<details>
+<summary><b>🎬 Prod+ Entertainment — Plateforme de streaming et monétisation.</b></summary>
+
+### 🎯 **Project Overview**
+
+Une plateforme de streaming haute performance conçue pour CCS PROD afin de centraliser la gestion des contenus et des acteurs. Cette solution optimise l'accessibilité numérique des vidéos et automatise le workflow de monétisation, permettant aux administrateurs de définir des tarifs et aux acteurs de percevoir leurs revenus automatiquement.
+
+### 🛠️ **Tech Stack**
+
+```yaml
+Frontend: Next.js 16, React 19, TypeScript, Tailwind v4, shadcn/ui
+Backend: PHP 8, MariaDB
+Streaming & Services: HLS.js, Firebase (Notifications)
+Infrastructure: Vercel (Frontend), Hostinger (Backend)
+```
+
+### ✨ **Key Features**
+
+- 🎥 Streaming adaptatif haute qualité via HLS.js
+- 💰 Système automatisé de calcul et partage de revenus
+- 👤 Portail d'autonomie pour les acteurs (publication et gestion de profils)
+- 🔐 Architecture sécurisée (RBAC, JWT, Rate Limiting)
+- 🚀 Interface moderne, responsive et optimisée pour le SEO
+
+🔗 **Lien du projet :** [prodentertainment.vercel.app](https://prodentertainment.vercel.app)
+</details>
 ---
 
 ## 💻 **Technical Arsenal**
