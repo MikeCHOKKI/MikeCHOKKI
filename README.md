@@ -274,15 +274,15 @@ Infrastructure: Vercel (Frontend), Hostinger (Backend)
 
 | Metric | Value |
 |--------|-------|
-| 📁 Total Repositories | 6 |
-| 🔓 Public Repositories | 6 |
+| 📁 Total Repositories | 7 |
+| 🔓 Public Repositories | 7 |
 | 🔒 Private Repositories | 0 |
 | ⭐ Total Stars Earned | 0 |
 | 🍴 Total Forks | 1 |
 | 👀 Total Watchers | 0 |
-| 👥 Followers | 245 |
+| 👥 Followers | 244 |
 
-*Last updated: 5/3/2026*
+*Last updated: 5/4/2026*
 
 </div>
 <!-- DYNAMIC_STATS_END -->
