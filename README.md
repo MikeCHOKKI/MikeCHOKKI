@@ -10,43 +10,61 @@
 
 ---
 
-## 🎯 **Professional Overview**
+## 👨‍💻 **About Me**
 
-<table>
-<tr>
-<td>
+Software engineer spécialisé en développement full-stack et chef d'exploitation informatique. Je conçois des applications cross-platform (Flutter, Next.js) avec des backends robustes (PHP, Node.js, Python) et des architectures scalables.
 
-**🎓 Background**
-
-- Licence en Génie Logiciel
-- Prestataire de service informatique
-- Chef d'exploitation informatique @ RAB-TECH
-
-</td>
-<td>
-
-**🌍 Location**
-
-- 📍 Cotonou, Vedoko
-- 🕒 Timezone: WAT (UTC+1)
-- 🗣️ Languages: French, English
-
-</td>
-</tr>
-</table>
+- 🎓 Licence en Génie Logiciel
+- 💼 Chef d'exploitation informatique @ RAB-TECH
+- 📍 Cotonou, Bénin
 
 ---
 
 ## 🚀 **Featured Projects**
 
-<details>
-<summary><b>📱 Buzup - Business-Client Connection Platform</b></summary>
+### 🎬 Prod+ Entertainment — Plateforme de streaming & monétisation
 
-### 🎯 **Project Overview**
+Plateforme de streaming haute performance avec gestion centralisée des contenus, workflow de monétisation automatisé et portail d'autonomie pour les acteurs.
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="screenshots/prodplus/screen_1.png" alt="Prod+ Screen 1" width="300"/></td>
+      <td><img src="screenshots/prodplus/screen_2.png" alt="Prod+ Screen 2" width="300"/></td>
+      <td><img src="screenshots/prodplus/screen_3.png" alt="Prod+ Screen 3" width="300"/></td>
+    </tr>
+  </table>
+</div>
+
+```yaml
+Frontend: Next.js 16, React 19, TypeScript, Tailwind v4, shadcn/ui
+Backend: PHP 8, MariaDB
+Streaming: HLS.js
+Infrastructure: Vercel (Frontend), Hostinger (Backend)
+```
+
+**Fonctionnalités clés :**
+- 🎥 Streaming adaptatif haute qualité via HLS.js
+- 💰 Système automatisé de calcul et partage de revenus
+- 👤 Portail d'autonomie pour les acteurs
+- 🔐 Architecture sécurisée (RBAC, JWT, Rate Limiting)
+
+[![Website](https://img.shields.io/badge/🌐_Site_Web-prodentertainment.vercel.app-blue?style=for-the-badge)](https://prodentertainment.vercel.app)
+
+---
+
+### 📱 Buzup — Mise en relation Business-Client
 
 Application mobile et desktop cross-platform facilitant la mise en relation entre entreprises et clients.
 
-### 🛠️ **Tech Stack**
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="screenshots/buzup/screen_1.png" alt="Buzup Screen 1" width="300"/></td>
+      <td><img src="screenshots/buzup/screen_2.png" alt="Buzup Screen 2" width="300"/></td>
+    </tr>
+  </table>
+</div>
 
 ```yaml
 Frontend: Flutter
@@ -54,306 +72,93 @@ Backend: PHP
 Database: MySQL, Firebase
 Authentication: Firebase Auth
 AI & ML: Hugging Face
-DevOps & Tools: Custom Infrastructure
 ```
 
-### ✨ **Key Features**
+**Fonctionnalités clés :**
+- 🔐 Authentification sécurisée (Firebase Auth)
+- 🛡️ API PHP sécurisée
+- 📱 Compatibilité cross-platform
+- 🎨 Design moderne et responsive
 
-- 🔐 Secure Firebase Authentication
-- 🛡️ PHP-powered secure API
-- 📱 Cross-platform compatibility
-- 🎨 Modern UI/UX design
+[![Website](https://img.shields.io/badge/🌐_Site_Web-buzup.app-blue?style=for-the-badge)](https://buzup.app/)
 
-### 🔗 **Links**
+---
 
-[![Website](https://img.shields.io/badge/🌐_Website-buzup.app-blue?style=for-the-badge)](https://buzup.app/)
+### 📚 Success-Delivery — Plateforme E-Learning
 
-</details>
+Plateforme mobile et web pour l'apprentissage de cours en ligne avec suivi de progression et synchronisation en temps réel.
 
-<details>
-<summary><b>📚 Success-Delivery - E-Learning Platform</b></summary>
-
-### 🎯 **Project Overview**
-
-Plateforme mobile et web pour l'apprentissage de cours en ligne.
-
-### 🛠️ **Tech Stack**
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="screenshots/success_delivery/screen_1.png" alt="Success-Delivery Screen 1" width="300"/></td>
+      <td><img src="screenshots/success_delivery/screen_2.png" alt="Success-Delivery Screen 2" width="300"/></td>
+    </tr>
+  </table>
+</div>
 
 ```yaml
 Frontend: Flutter, Web Interface
 Backend: PHP
 Database: MySQL, Firebase
 Authentication: Firebase Auth
-DevOps & Tools: Custom Infrastructure
 ```
 
-### ✨ **Key Features**
+**Fonctionnalités clés :**
+- 📖 Modules d'apprentissage interactifs
+- 👥 Support multi-utilisateur
+- 📊 Suivi de progression
+- 🔄 Synchronisation temps réel
 
-- 📖 Interactive learning modules
-- 👥 Multi-user support
-- 📊 Progress tracking
-- 🔄 Real-time synchronization
+[![Website](https://img.shields.io/badge/🌐_Site_Web-success--delivery.com-green?style=for-the-badge)](https://success-delivery.com/)
 
-### 🔗 **Links**
-
-[![Website](https://img.shields.io/badge/🌐_Website-success--delivery.com-green?style=for-the-badge)](https://success-delivery.com/)
-
-</details>
-
-<details>
-<summary><b>💱 Xof Trader - Cryptocurrency Exchange</b></summary>
-
-### 🎯 **Project Overview**
-
-Application mobile dédiée à l'échange sécurisé de cryptomonnaies.
-
-### 🛠️ **Tech Stack**
-
-```yaml
-Frontend: Flutter
-Backend: PHP
-Database: MySQL, Firebase
-Security: Advanced encryption
-DevOps & Tools: Custom Infrastructure
-```
-
-### ✨ **Key Features**
-
-- ₿ Secure crypto trading
-- 📈 Real-time market data
-- 🔒 Multi-layer security
-- 📱 Responsive mobile design
-
-### 🔗 **Links**
-
-[![Website](https://img.shields.io/badge/🌐_Website-xoftrader.com-orange?style=for-the-badge)](https://app.xoftrader.com/)
-
-</details>
-
-<details>
-<summary><b>🌸 ELLES, l'amie intime de la femme et de la jeune fille.</b></summary>
-
-### 🎯 **Project Overview**
-
-Une application engagée pour l’autonomisation féminine, qui contribue activement à bâtir une Afrique où chaque femme et chaque jeune fille exerce pleinement ses droits, maîtrise sa santé reproductive, et s’épanouit tant sur le plan économique que professionnel.
-
-### 🛠️ **Tech Stack**
-
-```yaml
-Frontend: Flutter
-Backend: PHP
-Database: MySQL, Firebase
-DevOps & Tools: Custom Infrastructure
-```
-
-### ✨ **Key Features**
-
-- 📆 Suivi du cycle menstruel
-- 🎗️ Dépistage du cancer du sein
-- ⚖️ Méthodes contraceptives
-- 🤖 Assistance en ligne
-
-</details>
-
-<details>
-<summary><b>⚙️ LucidCodeForge — Développement d’applications sur mesure.</b></summary>
-
-### 🎯 **Project Overview**
-
-LucidCodeForge est une société spécialisée dans la conception de solutions technologiques modernes, performantes et évolutives.
-Nous transformons vos idées en produits concrets : applications mobiles, web, desktop et backends robustes, avec une approche centrée sur la qualité, la scalabilité et l’expérience utilisateur.
-
-### 🛠️ **Tech Stack**
-
-```yaml
-Frontend: Next.js
-Database: Supabase
-DevOps & Tools: Lovable, Vercel
-```
-
-### ✨ **Key Features**
-
-- 🚀 Développement d’applications sur mesure
-- 🌐 Applications web dynamiques et SEO-friendly
-- 📱 Applications mobiles multiplateformes (Android & iOS)
-- 🖥️ Applications desktop performantes (Windows, Linux, macOS)
-- 🧠 Intégration d’IA et automatisations
-- ☁️ Déploiement cloud et gestion d’infrastructure
-- 🧩 Code propre, documenté et scalable
-- 🤝 Accompagnement humain 24/7
-
-</details>
-
-<details>
-<summary><b>🎬 Prod+ Entertainment — Plateforme de streaming et monétisation.</b></summary>
-
-### 🎯 **Project Overview**
-
-Une plateforme de streaming haute performance conçue pour CCS PROD afin de centraliser la gestion des contenus et des acteurs. Cette solution optimise l'accessibilité numérique des vidéos et automatise le workflow de monétisation, permettant aux administrateurs de définir des tarifs et aux acteurs de percevoir leurs revenus automatiquement.
-
-### 🛠️ **Tech Stack**
-
-```yaml
-Frontend: Next.js 16, React 19, TypeScript, Tailwind v4, shadcn/ui
-Backend: PHP 8, MariaDB
-Streaming & Services: HLS.js, Firebase (Notifications)
-Infrastructure: Vercel (Frontend), Hostinger (Backend)
-```
-
-### ✨ **Key Features**
-
-- 🎥 Streaming adaptatif haute qualité via HLS.js
-- 💰 Système automatisé de calcul et partage de revenus
-- 👤 Portail d'autonomie pour les acteurs (publication et gestion de profils)
-- 🔐 Architecture sécurisée (RBAC, JWT, Rate Limiting)
-- 🚀 Interface moderne, responsive et optimisée pour le SEO
-
-🔗 **Lien du projet :** [prodentertainment.vercel.app](https://prodentertainment.vercel.app)
-</details>
 ---
 
-## 💻 **Technical Arsenal**
+## 📦 **Other Projects**
 
-<div align="center">
+| Project | Stack | Description |
+|---------|-------|-------------|
+| 💱 **Xof Trader** | Flutter, PHP, MySQL | Échange sécurisé de cryptomonnaies |
+| 🌸 **ELLES** | Flutter, PHP, Firebase | Application d'autonomisation féminine |
+| ⚙️ **LucidCodeForge** | Next.js, Supabase | Développement d'applications sur mesure |
 
-### **Languages & Frameworks**
+---
+
+## 🔓 **Open Source**
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [**lfa-cli-ai**](https://github.com/MikeCHOKKI/lfa-cli-ai) | Go (Cobra, Bubbletea) | CLI d'installation et configuration d'OpenCode |
+| [**lfa-cli-ui**](https://github.com/MikeCHOKKI/lfa-cli-ui) | React, Vite, Tailwind | Landing page interactive pour LFA CLI |
+| [**php-auth**](https://github.com/MikeCHOKKI/php-auth) | PHP 8, PostgreSQL, Docker | RBAC complet avec JWT RS256, tests, CI/CD |
+
+---
+
+## 💻 **Tech Stack**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### **Frontend Technologies**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### **Backend & Frameworks**
-
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-### **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### **DevOps & Tools**
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 📊 **GitHub Analytics**
-
-<!-- <div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikeCHOKKI&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeCHOKKI&layout=compact&langs_count=8&theme=github_dark"/>
-
-</div> -->
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikeCHOKKI&theme=dark&hide_border=false)
-
-</div>
-
-<!-- DYNAMIC_STATS_START -->
-
-<div align="center">
-
-### 📊 **Live GitHub Statistics**
-
-| Metric | Value |
-|--------|-------|
-| 📁 Total Repositories | 8 |
-| 🔓 Public Repositories | 8 |
-| 🔒 Private Repositories | 0 |
-| ⭐ Total Stars Earned | 10 |
-| 🍴 Total Forks | 1 |
-| 👀 Total Watchers | 10 |
-| 👥 Followers | 268 |
-
-*Last updated: 5/27/2026*
-
-</div>
-<!-- DYNAMIC_STATS_END -->
-
-<!-- ### **Contribution Graph** -->
-<!--
-![Snake animation](https://github.com/MikeCHOKKI/MikeCHOKKI/blob/output/github-contribution-grid-snake.svg)
- -->
-
----
-
-## 🎯 **Most Used Tech Stack**
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[Mobile Development] --> B[Flutter]
-    A --> C[Dart]
-
-    D[Backend Development] --> E[PHP]
-    D --> F[Node.js]
-    D --> G[Python]
-
-    H[Database] --> I[Firebase]
-    H --> J[MySQL]
-    H --> K[PostgreSQL]
-
-    L[DevOps] --> M[Docker]
-    L --> N[Vercel]
-    L --> O[Firebase Hosting]
-```
-
-</div>
-
----
-
-## 🏆 **Professional Experience Matrix**
-
-<table align="center">
-<tr>
-<th>Domain</th>
-<th>Experience Level</th>
-<th>Key Skills</th>
-</tr>
-<tr>
-<td>🏗️ Software Architecture</td>
-<td>⭐⭐⭐⭐⭐</td>
-<td>System Design, Scalable Solutions</td>
-</tr>
-<tr>
-<td>📱 Mobile Development</td>
-<td>⭐⭐⭐⭐⭐</td>
-<td>Flutter, Cross-platform Apps</td>
-</tr>
-<tr>
-<td>🌐 Backend Development</td>
-<td>⭐⭐⭐⭐⭐</td>
-<td>PHP, Node.js, API Design</td>
-</tr>
-<tr>
-<td>🗄️ Database Management</td>
-<td>⭐⭐⭐⭐</td>
-<td>MySQL, Firebase, PostgreSQL</td>
-</tr>
-<tr>
-<td>🔧 IT Operations</td>
-<td>⭐⭐⭐⭐⭐</td>
-<td>Infrastructure, Team Management</td>
-</tr>
-</table>
 
 ---
 
@@ -369,37 +174,6 @@ graph TD
 
 ---
 
-## 📈 **Activity Timeline**
-
-```mermaid
-timeline
-    title Professional Journey
-    2020-2021    : Licence en Génie Logiciel
-    2021-2022    : Prestataire de service informatique
-    2022-2024    : Multiple Flutter Projects
-    2023-2024    : Designer Textile CAD
-    2024-2025    : Chef d'exploitation informatique
-    2023-2025    : Advanced IT Infrastructure Management
-```
-
----
-
-## 🎨 **Fun Facts & Interests**
-
-<div align="center">
-
-```ascii
-╔══════════════════════════════════════╗
-║  🚀 Always learning new technologies  ║
-║  💡 Problem-solving enthusiast        ║
-║  🎯 Quality-focused developer         ║
-╚══════════════════════════════════════╝
-```
-
-</div>
-
----
-
 <div align="center">
 
 **Thanks for visiting my profile! Let's build something amazing together! 🚀**
@@ -410,11 +184,8 @@ timeline
 
 ---
 
----
-
-</div><!-- WORKFLOW_CREDITS_START --><div align="right" style="margin-top: 2rem">
+<!-- WORKFLOW_CREDITS_START --><div align="right" style="margin-top: 2rem">
 🤖 Maintenu automatiquement par GitHub Actions
-
 </div> <!-- WORKFLOW_CREDITS_END -->
 
 ---
