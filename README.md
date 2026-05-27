@@ -12,10 +12,10 @@
 
 ## 👨‍💻 **About Me**
 
-Software engineer spécialisé en développement full-stack et chef d'exploitation informatique. Je conçois des applications cross-platform (Flutter, Next.js) avec des backends robustes (PHP, Node.js, Python) et des architectures scalables.
+Développeur fullstack passionné, je conçois des applications cross-platform (Flutter, Next.js) avec des backends robustes (PHP, Node.js, Python) et des architectures scalables.
 
 - 🎓 Licence en Génie Logiciel
-- 💼 Chef d'exploitation informatique @ RAB-TECH
+- 💼 Développeur Fullstack
 - 📍 Cotonou, Bénin
 
 ---
