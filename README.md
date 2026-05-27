@@ -44,6 +44,7 @@ Infrastructure: Vercel (Frontend), Hostinger (Backend)
 ```
 
 **Fonctionnalités clés :**
+
 - 🎥 Streaming adaptatif haute qualité via HLS.js
 - 💰 Système automatisé de calcul et partage de revenus
 - 👤 Portail d'autonomie pour les acteurs
@@ -75,6 +76,7 @@ AI & ML: Hugging Face
 ```
 
 **Fonctionnalités clés :**
+
 - 🔐 Authentification sécurisée (Firebase Auth)
 - 🛡️ API PHP sécurisée
 - 📱 Compatibilité cross-platform
@@ -105,6 +107,7 @@ Authentication: Firebase Auth
 ```
 
 **Fonctionnalités clés :**
+
 - 📖 Modules d'apprentissage interactifs
 - 👥 Support multi-utilisateur
 - 📊 Suivi de progression
