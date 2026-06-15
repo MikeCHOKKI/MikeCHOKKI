@@ -1,0 +1,25 @@
+# Dépendances
+node_modules/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environnement
+.env
+.env.local
+
+# Cache navigateur (Playwright)
+.playwright-mcp/
+
+# Stats générées
+stats.json
+
+# Logs
+*.log
