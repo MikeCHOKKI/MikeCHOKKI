@@ -279,11 +279,7 @@ Cloud    : Firebase
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=MikeCHOKKI&theme=transparent&hide_border=true&background=0a0a1a&stroke=0a0a1a&ring=06B6D4&fire=4f46e5&currStreakLabel=06B6D4&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=MikeCHOKKI&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MikeCHOKKI&theme=transparent&hide_border=true&background=0a0a1a&stroke=0a0a1a&ring=06B6D4&fire=4f46e5&currStreakLabel=06B6D4&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff" />
 
 <br>
 
