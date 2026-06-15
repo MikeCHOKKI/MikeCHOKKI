@@ -1,255 +1,328 @@
+<!-- ============================================================== -->
+<!--  Mike E.S. Chokki — GitHub Profile README                      -->
+<!--  Theme: Minimal Cyan · Indigo · Deep Navy                      -->
+<!-- ============================================================== -->
+
 <div align="center">
 
-# Mike E.S. Chokki
+<a href="https://github.com/MikeCHOKKI">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Mike%20E.S.%20Chokki&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Back-End%20Architect%20%C2%B7%20Mobile%20Engineer&descAlignY=58&descSize=16&animation=fadeIn" alt="header" />
+</a>
 
-**Développeur Full Stack · Architecte Back-End & Mobile · Chef d'Exploitation IT**
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+Flutter+%2B+Next.js;Back-End+Architect+%7C+PHP+%2B+Go+%2B+Python;Mobile+%26+Cross-Platform+Engineer;Building+Digital+Solutions+for+West+Africa)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+%E2%80%94+Flutter+%2B+Next.js;Back-End+Architect+%E2%80%94+PHP+%2B+Go+%2B+Python;Mobile+%26+Cross-Platform+Engineer;Building+Digital+Solutions+for+West+Africa+%F0%9F%8C%8D" alt="typing" />
+</a>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MikeCHOKKI&style=flat-square&color=58A6FF&label=Visites+Profil)](https://github.com/MikeCHOKKI)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mikechokki-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/mikechokki)
-[![Twitter](https://img.shields.io/badge/Twitter-@MikeCHOKKI-1D9BF0?style=flat-square&logo=twitter)](https://twitter.com/MikeCHOKKI)
-[![Email](https://img.shields.io/badge/Email-mikechokki5@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mikechokki5@gmail.com)
+<br/><br/>
+
+<a href="https://github.com/MikeCHOKKI"><img src="https://komarev.com/ghpvc/?username=MikeCHOKKI&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS" /></a>
+<img src="https://img.shields.io/github/followers/MikeCHOKKI?style=for-the-badge&color=4f46e5&labelColor=0a0a1a&logo=github" />
+<img src="https://img.shields.io/badge/Based_in-Cotonou_%E2%86%92_Dakar-06B6D4?style=for-the-badge&labelColor=0a0a1a" />
+<img src="https://img.shields.io/badge/Status-Open_to_collab-3FB950?style=for-the-badge&labelColor=0a0a1a" />
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/mikechokki"><img src="https://img.shields.io/badge/LinkedIn-mikechokki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a1a" /></a>
+<a href="https://twitter.com/MikeCHOKKI"><img src="https://img.shields.io/badge/Twitter-@MikeCHOKKI-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0a0a1a" /></a>
+<a href="mailto:mikechokki5@gmail.com"><img src="https://img.shields.io/badge/Email-mikechokki5@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a1a" /></a>
 
 </div>
 
----
+<br/>
 
-## À propos
+## <picture><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/></picture> &nbsp;À propos
 
-Développeur basé entre **Cotonou (Bénin)** et **Dakar (Sénégal)**, je conçois des architectures back-end robustes, des applications cross-platform performantes et des solutions digitales scalables — du cahier des charges au déploiement en production.
+```ts
+const mike = {
+  location:   ["Cotonou 🇧🇯", "Dakar 🇸🇳"],
+  role:       "Développeur d'Application @ Jilmonde Consulting",
+  previously: "Chef d'Exploitation IT @ RAB-TECH",
+  focus:      ["Back-End robuste", "Cross-platform mobile", "Solutions pour l'Afrique"],
+  learning:   ["Go advanced", "AI Coding Agents", "Edge architectures"],
+  motto:      "From spec to production — du cahier des charges au déploiement."
+};
+```
 
-Actuellement **Développeur d'Application chez Jilmonde Consulting** (Dakar), après avoir dirigé l'exploitation informatique chez RAB-TECH (Cotonou). Curieux, proactif, toujours en veille sur les technologies émergentes adaptées au contexte africain.
+Développeur basé entre **Cotonou** et **Dakar**, je conçois des architectures back-end robustes, des applications cross-platform performantes et des solutions digitales scalables. Curieux, proactif, en veille permanente sur les technologies adaptées au contexte ouest-africain.
 
----
+<br/>
 
-## Stack Technique
+## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/></picture> &nbsp;Stack Technique
 
-### Langages
+<table>
+<tr>
+<td valign="top" width="33%">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+#### Langages
 
-### Frameworks & UI
+![JS](https://skillicons.dev/icons?i=js)
+![TS](https://skillicons.dev/icons?i=ts)
+![Dart](https://skillicons.dev/icons?i=dart)
+![Go](https://skillicons.dev/icons?i=go)
+![PHP](https://skillicons.dev/icons?i=php)
+![Python](https://skillicons.dev/icons?i=python)
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+</td>
+<td valign="top" width="33%">
 
-### Bases de données & Infrastructure
+#### Frameworks & UI
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Flutter](https://skillicons.dev/icons?i=flutter)
+![Next](https://skillicons.dev/icons?i=nextjs)
+![React](https://skillicons.dev/icons?i=react)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![Django](https://skillicons.dev/icons?i=django)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
-### 🤖 AI Coding Agents
+</td>
+<td valign="top" width="33%">
 
-![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logoColor=white)
+#### Data & Infra
+
+![Postgres](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![Supabase](https://skillicons.dev/icons?i=supabase)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+
+</td>
+</tr>
+</table>
+
+#### 🤖 AI Coding Agents
+
+![OpenCode](https://img.shields.io/badge/OpenCode-0a0a1a?style=for-the-badge&logoColor=06B6D4)
 ![Windsurf](https://img.shields.io/badge/Windsurf-0B5E8A?style=for-the-badge&logoColor=white)
-![AntiGravity](https://img.shields.io/badge/AntiGravity-7B2FF7?style=for-the-badge&logoColor=white)
+![AntiGravity](https://img.shields.io/badge/AntiGravity-4f46e5?style=for-the-badge&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logoColor=white)
 
----
+<br/>
 
-## Expérience
+## <picture><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="28"/></picture> &nbsp;Expérience
 
-```
-Développeur d'Application         Jilmonde Consulting — Dakar, Sénégal          Mai 2026 → Actuel
-Chef d'Exploitation Informatique   RAB-TECH — Cotonou, Bénin                    Jan 2024 → Jan 2025
-Prestataire Informatique           RAB-TECH — Bénin                             Jan 2021 → Jan 2023
-Designer Textile CAD               Glo Djibe Industrial Zone — Bénin            Jan 2023 → Jan 2024
-```
+<details open>
+<summary><b>👨‍💻 2026 → présent · Développeur d'Application</b> — Jilmonde Consulting <code>Dakar</code></summary>
 
-**Chez Jilmonde Consulting :** développement de nouvelles applications, intégration d'API tierces, ateliers fonctionnels & techniques, reporting projet.
+- Développement d'applications sur mesure
+- Intégration d'API tierces
+- Ateliers fonctionnels & techniques
+- Reporting et suivi de planning projet
+</details>
 
-**Chez RAB-TECH :** supervision d'équipe IT, gestion sécurité/incidents, transformation digitale, développement mobile/web/desktop en prestataire.
+<br/>
 
----
+<details>
+<summary><b>🖥️ 2024 → 2025 · Chef d'Exploitation IT</b> — RAB-TECH <code>Cotonou</code></summary>
 
-## Formation & Certifications
+- Supervision équipe technique & infrastructure IT
+- Gestion sécurité & incidents
+- Transformation digitale
+- Prestataire dev mobile / web / desktop
+</details>
+
+<br/>
+
+<details>
+<summary><b>🎨 2023 → 2024 · Designer Textile CAD</b> — Glo Djibe Industrial Zone <code>Bénin</code></summary>
+
+- Création de motifs textiles via logiciels CAD
+- Transformation d'illustrations en produits commercialisables
+- Collaboration avec équipes de production
+</details>
+
+<br/>
+
+<details>
+<summary><b>💻 2021 → 2023 · Prestataire Informatique</b> — RAB-TECH <code>Bénin</code></summary>
+
+- Développement d'applications mobiles & jeux vidéo
+- Approche centrée sur logique, créativité & performance
+- Prestations mobile / web / desktop
+</details>
+
+<br/>
+
+## <picture><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"/></picture> &nbsp;Formation
 
 | Année | Institution | Titre |
-|-------|-------------|-------|
-| 2022 | IFRI Abomey Calavi | Licence en Génie Logiciel |
-| 2017 | Collège Catholique Hibiscus, Parakou | Baccalauréat |
-| — | Udemy | Flutter UI Bootcamp |
-| — | Udemy | Dart & Flutter |
+|:-----:|:------------|:------|
+| `2022` | IFRI Abomey Calavi | **Licence en Génie Logiciel** |
+| `2017` | Collège Catholique Hibiscus, Parakou | **Baccalauréat** |
+|  `—`   | Udemy | Flutter UI Bootcamp |
+|  `—`   | Udemy | Dart & Flutter |
 
----
+<br/>
 
-## Projets Phares
+## <picture><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/></picture> &nbsp;Projets Phares
 
-### 🎬 Prod+ Entertainment — Streaming & Monétisation
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Plateforme de streaming haute performance avec système automatisé de partage de revenus et portail d'autonomie pour les acteurs.
+### 🎬 Prod+ Entertainment
 
-<div align="center">
-  <img src="screenshots/prodplus/screen_1.png" width="280" /> <img src="screenshots/prodplus/screen_2.png" width="280" /> <img src="screenshots/prodplus/screen_3.png" width="280" />
-</div>
+**Streaming HLS & monétisation automatisée**
+
+Plateforme de streaming haute performance avec partage de revenus automatisé et portail d'autonomie pour les acteurs.
 
 ```yaml
-Frontend  : Next.js 16, React 19, TypeScript, Tailwind v4, shadcn/ui
-Backend   : PHP 8, MariaDB
+Frontend  : Next.js 16 · React 19 · TS · Tailwind v4
+Backend   : PHP 8 · MariaDB
 Streaming : HLS.js
-Infra     : Vercel (Frontend) · Hostinger (Backend)
+Sec.      : RBAC · JWT · Rate Limiting
+Infra     : Vercel + Hostinger
 ```
 
-**Points clés :** streaming adaptatif HLS · calcul automatique des revenus · RBAC + JWT + Rate Limiting
+<a href="https://prodentertainment.vercel.app"><img src="https://img.shields.io/badge/🌐_prodentertainment.vercel.app-06B6D4?style=for-the-badge&labelColor=0a0a1a" /></a>
 
-[![Site](https://img.shields.io/badge/🌐_prodentertainment.vercel.app-000?style=for-the-badge)](https://prodentertainment.vercel.app)
+</td>
+<td width="50%" valign="top">
 
----
+### 📱 Buzup
 
-### 📱 Buzup — Écosystème Business-Client
+**Écosystème business ↔ client**
 
-Application multi-plateforme de mise en relation entreprises/clients : Annuaire, MonCV, BuzupPharma, BuzupSchool.
-
-<div align="center">
-  <img src="screenshots/buzup/screen_1.png" width="280" /> <img src="screenshots/buzup/screen_2.png" width="280" /> <img src="screenshots/buzup/screen_3.png" width="280" />
-</div>
+Application multi-plateforme : Annuaire, MonCV, BuzupPharma, BuzupSchool.
 
 ```yaml
 Frontend : Flutter
-Backend  : PHP
-Database : MySQL, Firebase
-Auth     : Firebase Auth
+Backend  : PHP · MySQL
+Cloud    : Firebase (Auth + DB)
 AI/ML    : Hugging Face
 ```
 
-[![Site](https://img.shields.io/badge/🌐_buzup.app-000?style=for-the-badge)](https://buzup.app/)
+<a href="https://buzup.app/"><img src="https://img.shields.io/badge/🌐_buzup.app-06B6D4?style=for-the-badge&labelColor=0a0a1a" /></a>
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🎓 WeForgeEdu — Plateforme Edtech Francophone
+### 🎓 WeForgeEdu
 
-Plateforme éducative de **[LucidForge Africa](https://lucidforgeafrica.com)** connectant les étudiants francophones d'Afrique de l'Ouest aux universités américaines. Accès souverain à l'enseignement supérieur américain (BYU Pathway) avec accompagnement linguistique et mentorat.
+**Edtech francophone × BYU Pathway**
 
-<div align="center">
-  <img src="screenshots/weforgeedu/screen_2.png" width="280" /> <img src="screenshots/weforgeedu/screen_3.png" width="280" /> <img src="screenshots/weforgeedu/screen_4.png" width="280" />
-</div>
+Plateforme de [LucidForge Africa](https://lucidforgeafrica.com) connectant les étudiants ouest-africains aux universités américaines.
 
 ```yaml
-Frontend : React, Vite, TypeScript, Tailwind CSS
+Frontend : React · Vite · TS · Tailwind
 Backend  : Laravel (PHP 8)
-Client   : LucidForge Africa (Cotonou, Bénin)
 Url      : wfe.lucidforgeafrica.com
 ```
 
-**Points clés :** workflow de candidature BYU · simulateur de coûts & bourses · test d'anglais · orientation interactive · mentorat par diplômés ouest-africains
+*Workflow candidature BYU · simulateur coûts/bourses · test d'anglais · mentorat diplômés.*
 
----
+</td>
+<td width="50%" valign="top">
 
-### 📚 Success-Delivery — E-Learning Mobile & Web
+### 📚 Success-Delivery
 
-Plateforme d'apprentissage en ligne avec suivi de progression et synchronisation temps réel, dédiée à la reconversion professionnelle (métier de chauffeur-livreur).
+**E-Learning mobile & web**
 
-<div align="center">
-  <img src="screenshots/success_delivery/screen_1.png" width="280" /> <img src="screenshots/success_delivery/screen_2.png" width="280" />
-</div>
+Plateforme d'apprentissage avec suivi temps réel, dédiée à la reconversion chauffeur-livreur.
 
 ```yaml
-Frontend : Flutter, Web Interface
-Backend  : PHP
-Database : MySQL, Firebase
-Auth     : Firebase Auth
+Frontend : Flutter · Web
+Backend  : PHP · MySQL
+Cloud    : Firebase
 ```
 
-[![Site](https://img.shields.io/badge/🌐_success--delivery.com-000?style=for-the-badge)](https://success-delivery.com/)
+<a href="https://success-delivery.com/"><img src="https://img.shields.io/badge/🌐_success--delivery.com-06B6D4?style=for-the-badge&labelColor=0a0a1a" /></a>
 
----
+</td>
+</tr>
+</table>
 
-## Autres Projets
+<details>
+<summary><b>📂 Voir tous les autres projets (10)</b></summary>
+
+<br/>
 
 | Projet | Stack | Description |
-|--------|-------|-------------|
-| 🚀 **AfriStartup** | Flutter, Php, MySQL, Firebase | Financement participatif & investissement pour projets innovants |
-| 🏫 **Scolariis** | Flutter, Php, MySQL, Firebase | Obtention de documents administratifs scolaires en ligne |
-| 🎵 **229MusicRadio** | Flutter, Php, MySQL, Firebase | Diffusion musicale dédiée à la musique béninoise |
-| 📺 **TOSSIN** | Flutter, Php, MySQL, Firebase | Suivi et conformité légale pour l'ORTB/SRTB |
-| 👥 **PRODIJ (BDS)** | Flutter, Php, MySQL, Firebase | Suivi et insertion professionnelle des jeunes |
-| 💱 **Xof Trader** | Flutter, PHP, MySQL | Échange sécurisé de cryptomonnaies |
-| 🌸 **ELLES** | Flutter, PHP, Firebase | Application d'autonomisation féminine |
-| ⚙️ **LucidCodeForge** | Next.js, Supabase | Développement d'applications sur mesure |
-| 🔗 **Framezer & Vafi** | Flutter, Php, MySQL, Firebase | Communication et services divers |
-| 🏠 **BTC Maison** | AutoCad | Design et correction de plans de construction |
+|:--|:--|:--|
+| 🚀 **AfriStartup** | Flutter · PHP · MySQL · Firebase | Financement participatif & investissement |
+| 🏫 **Scolariis** | Flutter · PHP · MySQL · Firebase | Documents administratifs scolaires en ligne |
+| 🎵 **229MusicRadio** | Flutter · PHP · MySQL · Firebase | Diffusion musique béninoise |
+| 📺 **TOSSIN** | Flutter · PHP · MySQL · Firebase | Conformité légale ORTB/SRTB |
+| 👥 **PRODIJ (BDS)** | Flutter · PHP · MySQL · Firebase | Insertion professionnelle des jeunes |
+| 💱 **Xof Trader** | Flutter · PHP · MySQL | Échange sécurisé de cryptomonnaies |
+| 🌸 **ELLES** | Flutter · PHP · Firebase | Autonomisation féminine |
+| ⚙️ **LucidCodeForge** | Next.js · Supabase | Applications sur mesure |
+| 🔗 **Framezer & Vafi** | Flutter · PHP · MySQL · Firebase | Communication & services |
+| 🏠 **BTC Maison** | AutoCAD | Plans de construction |
 
----
+</details>
 
-## Open Source
+<br/>
+
+## <picture><img src="https://media.giphy.com/media/dHr9aTBVqFvio2W0nu/giphy.gif" width="28"/></picture> &nbsp;Open Source
 
 | Dépôt | Stack | Description |
-|-------|-------|-------------|
-| [**lfa-cli-ai**](https://github.com/MikeCHOKKI/lfa-cli-ai) | Go · Cobra · Bubbletea | CLI d'installation et configuration d'OpenCode |
-| [**lfa-cli-ui**](https://github.com/MikeCHOKKI/lfa-cli-ui) | React · Vite · Tailwind | Landing page interactive pour LFA CLI |
-| [**php-auth**](https://github.com/MikeCHOKKI/php-auth) | PHP 8 · PostgreSQL · Docker | RBAC complet avec JWT RS256, tests, CI/CD |
+|:--|:--|:--|
+| [**lfa-cli-ai**](https://github.com/MikeCHOKKI/lfa-cli-ai) | `Go` · `Cobra` · `Bubbletea` | CLI d'installation et configuration d'OpenCode |
+| [**lfa-cli-ui**](https://github.com/MikeCHOKKI/lfa-cli-ui) | `React` · `Vite` · `Tailwind` | Landing page interactive pour LFA CLI |
+| [**php-auth**](https://github.com/MikeCHOKKI/php-auth) | `PHP 8` · `PostgreSQL` · `Docker` | RBAC + JWT RS256, tests, CI/CD |
+| [**yt-downloader**](https://github.com/MikeCHOKKI/yt-downloader) | `TypeScript` | CLI interactif de téléchargement YouTube |
 
----
+<br/>
 
-<!-- DYNAMIC_STATS_START -->
+## <picture><img src="https://media.giphy.com/media/ZE0RTGu5UN8Yo27CrI/giphy.gif" width="28"/></picture> &nbsp;GitHub Stats
 
-| 📁 Dépôts | 🔓 Publics | 🔒 Privés | ⭐ Étoiles | 🍴 Forks | 👀 Watchs | 👥 Followers |
-|-----------|-----------|-----------|-----------|---------|---------|------------|
-| 8 | 8 | 0 | 10 | 1 | 10 | 284 |
+<div align="center">
 
-*Dernière mise à jour : 15 juin 2026*
-<!-- DYNAMIC_STATS_END -->
+<a href="https://github.com/MikeCHOKKI">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MikeCHOKKI&show_icons=true&hide_border=true&bg_color=0a0a1a&title_color=06B6D4&icon_color=4f46e5&text_color=ffffff&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeCHOKKI&layout=compact&hide_border=true&bg_color=0a0a1a&title_color=06B6D4&text_color=ffffff&langs_count=8" />
+</a>
 
-<!-- TOP_LANGUAGES_START -->
-▓▓▓▓▓▓░░░░ 59.1% **Python**
-▓▓░░░░░░░░ 19.2% **Jupyter Notebook**
-▓░░░░░░░░░ 6.9% **HTML**
-░░░░░░░░░░ 4.7% **TypeScript**
-░░░░░░░░░░ 2.9% **Go**
-░░░░░░░░░░ 2.5% **PHP**
-░░░░░░░░░░ 2% **JavaScript**
-░░░░░░░░░░ 1.3% **Shell**
-░░░░░░░░░░ 0.7% **PLpgSQL**
-░░░░░░░░░░ 0.2% **Makefile**
-<!-- TOP_LANGUAGES_END -->
+<br/>
 
-<!-- TOP_REPOS_START -->
-⭐ [**lfa-cli-ai**](https://github.com/MikeCHOKKI/lfa-cli-ai) — LFA CLI est un outil en ligne de commande (CLI) conçu pour automatiser la détection, l'installation et la configuration d'OpenCode ainsi que de ses agents et skills IA. `Python` • 🍴 0
-⭐ [**lfa-cli-ui**](https://github.com/MikeCHOKKI/lfa-cli-ui) — Site de présentation du CLI lfa-cli-ai, déployé sur Vercel. `TypeScript` • 🍴 0
-⭐ [**MikeCHOKKI**](https://github.com/MikeCHOKKI/MikeCHOKKI) — *Aucune description*  • 🍴 0
-⭐ [**yt-downloader**](https://github.com/MikeCHOKKI/yt-downloader) — YT Downloader est une application CLI interactive permettant de télécharger des vidéos et playlists YouTube avec des fonctionnalités avancées. Contrairement aux outils classiques, elle propose une interface intuitive avec des menus interactifs, une gestion des configurations persistantes et une expérience de téléchargement améliorée. `TypeScript` • 🍴 1
-⭐ [**php-auth**](https://github.com/MikeCHOKKI/php-auth) — Architecture d'authentification robuste et sécurisée implémentant un système RBAC granulaire avec JWT RS256 et rotation automatique des refresh tokens, conçue dans le strict respect des standards PSR-12 et des principes SOLID. `PHP` • 🍴 0
-<!-- TOP_REPOS_END -->
+<a href="https://github.com/MikeCHOKKI">
+  <img src="https://streak-stats.demolab.com?user=MikeCHOKKI&theme=transparent&hide_border=true&background=0a0a1a&stroke=0a0a1a&ring=06B6D4&fire=4f46e5&currStreakLabel=06B6D4&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff" />
+</a>
 
-<!-- RECENT_ACTIVITY_START -->
-📝 **15 juin 2026** — A poussé 0 commit dans [MikeCHOKKI](https://github.com/MikeCHOKKI/MikeCHOKKI)
-📝 **15 juin 2026** — A poussé 0 commit dans [MikeCHOKKI](https://github.com/MikeCHOKKI/MikeCHOKKI)
-📝 **15 juin 2026** — A poussé 0 commit dans [MikeCHOKKI](https://github.com/MikeCHOKKI/MikeCHOKKI)
-📝 **15 juin 2026** — A poussé 0 commit dans [MikeCHOKKI](https://github.com/MikeCHOKKI/MikeCHOKKI)
-📝 **15 juin 2026** — A poussé 0 commit dans [MikeCHOKKI](https://github.com/MikeCHOKKI/MikeCHOKKI)
-<!-- RECENT_ACTIVITY_END -->
+<br/><br/>
 
----
+<a href="https://github.com/MikeCHOKKI">
+  <img src="https://github-profile-trophy.vercel.app/?username=MikeCHOKKI&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" />
+</a>
+
+<br/>
+
+![Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<br/>
 
 ## 🌐 Langues
 
-![Français](https://progress-bar.dev/100/?title=Fran%C3%A7ais&color=58A6FF&width=280)
-![English](https://progress-bar.dev/100/?title=English&color=58A6FF&width=280)
+<div align="center">
+
+![Français](https://geps.dev/progress/100?dangerColor=06B6D4&warningColor=06B6D4&successColor=06B6D4) &nbsp; **Français** — Natif
+
+![English](https://geps.dev/progress/90?dangerColor=4f46e5&warningColor=4f46e5&successColor=4f46e5) &nbsp; **English** — Professionnel
+
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-**Construisons ensemble des solutions qui comptent pour l'Afrique. 🌍**
+### 🤝 Construisons ensemble des solutions qui comptent pour l'Afrique
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:58A6FF&height=80&section=footer)](https://github.com/MikeCHOKKI)
+<a href="mailto:mikechokki5@gmail.com"><img src="https://img.shields.io/badge/Disponible_pour_collaborer-Discutons_%E2%86%92-06B6D4?style=for-the-badge&labelColor=0a0a1a" /></a>
 
-<!-- WORKFLOW_CREDITS_START -->
-<sub>🤖 Statistiques maintenues automatiquement par GitHub Actions</sub>
-<!-- WORKFLOW_CREDITS_END -->
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
+
+<sub>🤖 Statistiques maintenues automatiquement par GitHub Actions · Dernière mise à jour : 15 juin 2026</sub>
 
 </div>
