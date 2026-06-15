@@ -220,9 +220,9 @@ Auth     : Firebase Auth
 <!-- TOP_REPOS_START -->
 ⭐ [**lfa-cli-ai**](https://github.com/MikeCHOKKI/lfa-cli-ai) — LFA CLI est un outil en ligne de commande (CLI) conçu pour automatiser la détection, l'installation et la configuration d'OpenCode ainsi que de ses agents et skills IA. `Python` • 🍴 0
 ⭐ [**lfa-cli-ui**](https://github.com/MikeCHOKKI/lfa-cli-ui) — Site de présentation du CLI lfa-cli-ai, déployé sur Vercel. `TypeScript` • 🍴 0
+⭐ [**MikeCHOKKI**](https://github.com/MikeCHOKKI/MikeCHOKKI) — *Aucune description*  • 🍴 0
 ⭐ [**yt-downloader**](https://github.com/MikeCHOKKI/yt-downloader) — YT Downloader est une application CLI interactive permettant de télécharger des vidéos et playlists YouTube avec des fonctionnalités avancées. Contrairement aux outils classiques, elle propose une interface intuitive avec des menus interactifs, une gestion des configurations persistantes et une expérience de téléchargement améliorée. `TypeScript` • 🍴 1
 ⭐ [**php-auth**](https://github.com/MikeCHOKKI/php-auth) — Architecture d'authentification robuste et sécurisée implémentant un système RBAC granulaire avec JWT RS256 et rotation automatique des refresh tokens, conçue dans le strict respect des standards PSR-12 et des principes SOLID. `PHP` • 🍴 0
-⭐ [**MikeCHOKKI**](https://github.com/MikeCHOKKI/MikeCHOKKI) — *Aucune description*  • 🍴 0
 <!-- TOP_REPOS_END -->
 
 <!-- RECENT_ACTIVITY_START -->
@@ -230,7 +230,7 @@ Auth     : Firebase Auth
 📝 **15 juin 2026** — A poussé 0 commit dans [MikeCHOKKI](https://github.com/MikeCHOKKI/MikeCHOKKI)
 📝 **15 juin 2026** — A poussé 0 commit dans [MikeCHOKKI](https://github.com/MikeCHOKKI/MikeCHOKKI)
 📝 **15 juin 2026** — A poussé 0 commit dans [MikeCHOKKI](https://github.com/MikeCHOKKI/MikeCHOKKI)
-📝 **7 juin 2026** — A poussé 0 commit dans [lfa-cli-ai](https://github.com/MikeCHOKKI/lfa-cli-ai)
+📝 **15 juin 2026** — A poussé 0 commit dans [MikeCHOKKI](https://github.com/MikeCHOKKI/MikeCHOKKI)
 <!-- RECENT_ACTIVITY_END -->
 
 ---
