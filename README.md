@@ -263,10 +263,10 @@ Cloud    : Firebase
 
 | Dépôt | Stack | Description |
 |:--|:--|:--|
-| [**lfa-cli-ai**](https://github.com/MikeCHOKKI/lfa-cli-ai) | `Go` · `Cobra` · `Bubbletea` | CLI d'installation et configuration d'OpenCode |
-| [**lfa-cli-ui**](https://github.com/MikeCHOKKI/lfa-cli-ui) | `React` · `Vite` · `Tailwind` | Landing page interactive pour LFA CLI |
-| [**php-auth**](https://github.com/MikeCHOKKI/php-auth) | `PHP 8` · `PostgreSQL` · `Docker` | RBAC + JWT RS256, tests, CI/CD |
-| [**yt-downloader**](https://github.com/MikeCHOKKI/yt-downloader) | `TypeScript` | CLI interactif de téléchargement YouTube |
+| [**lfa-cli-ai**](https://github.com/MikeCHOKKI/lfa-cli-ai) | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | CLI d'installation et configuration d'OpenCode |
+| [**lfa-cli-ui**](https://github.com/MikeCHOKKI/lfa-cli-ui) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | Landing page interactive pour LFA CLI |
+| [**php-auth**](https://github.com/MikeCHOKKI/php-auth) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | RBAC + JWT RS256, tests, CI/CD |
+| [**yt-downloader**](https://github.com/MikeCHOKKI/yt-downloader) | ![TS](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | CLI interactif de téléchargement YouTube |
 
 <br/>
 
@@ -274,26 +274,20 @@ Cloud    : Firebase
 
 <div align="center">
 
-<a href="https://github.com/MikeCHOKKI">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MikeCHOKKI&show_icons=true&hide_border=true&bg_color=0a0a1a&title_color=06B6D4&icon_color=4f46e5&text_color=ffffff&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeCHOKKI&layout=compact&hide_border=true&bg_color=0a0a1a&title_color=06B6D4&text_color=ffffff&langs_count=8" />
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MikeCHOKKI&show_icons=true&hide_border=true&bg_color=0a0a1a&title_color=06B6D4&icon_color=4f46e5&text_color=ffffff&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeCHOKKI&layout=compact&hide_border=true&bg_color=0a0a1a&title_color=06B6D4&text_color=ffffff&langs_count=8" />
 
-<br/>
+<br>
 
-<a href="https://github.com/MikeCHOKKI">
-  <img src="https://streak-stats.demolab.com?user=MikeCHOKKI&theme=transparent&hide_border=true&background=0a0a1a&stroke=0a0a1a&ring=06B6D4&fire=4f46e5&currStreakLabel=06B6D4&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff" />
-</a>
+<img src="https://streak-stats.demolab.com/?user=MikeCHOKKI&theme=transparent&hide_border=true&background=0a0a1a&stroke=0a0a1a&ring=06B6D4&fire=4f46e5&currStreakLabel=06B6D4&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff" />
 
-<br/><br/>
+<br><br>
 
-<a href="https://github.com/MikeCHOKKI">
-  <img src="https://github-profile-trophy.vercel.app/?username=MikeCHOKKI&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=MikeCHOKKI&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" />
 
-<br/>
+<br>
 
-![Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
