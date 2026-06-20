@@ -235,16 +235,53 @@ Cloud    : Firebase
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ NexusFlow
+
+**Microservices distribué — Go × PHP × gRPC × Redis × PostgreSQL**
+
+Dashboard temps réel avec architecture polyglotte : gateway Go, services spécialisés (PHP, Go), sync gRPC, async Redis Pub/Sub, stockage PostgreSQL.
+
+```yaml
+Gateway  : Go · gRPC · REST
+Services : Go (catalog/user/payment) · PHP 8 (order)
+Messaging: Redis Pub/Sub
+Storage  : PostgreSQL (schémas par service)
+Frontend : React · TS · Tailwind v4
+Infra    : Docker Compose · 10 containers
+```
+
+<a href="https://github.com/MikeCHOKKI/nexusflow"><img src="https://img.shields.io/badge/📂_nexusflow-06B6D4?style=for-the-badge&labelColor=0a0a1a" /></a>
+<a href="screenshots/nexusflow/nexusflow-dashboard.png"><img src="https://img.shields.io/badge/📸_Dashboard-4f46e5?style=for-the-badge&labelColor=0a0a1a" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 AfriStartup
+
+**Financement participatif & investissement**
+
+Plateforme de crowdfunding dédiée aux startups africaines, avec gestion des investisseurs, campagnes de levée de fonds, et suivi de projets.
+
+```yaml
+Frontend : Flutter
+Backend  : PHP · MySQL
+Cloud    : Firebase (Auth + DB)
+```
+
+</td>
+</tr>
 </table>
 
 <details>
-<summary><b>📂 Voir tous les autres projets (10)</b></summary>
+<summary><b>📂 Voir tous les autres projets (9)</b></summary>
 
 <br/>
 
 | Projet | Stack | Description |
 |:--|:--|:--|
-| 🚀 **AfriStartup** | Flutter · PHP · MySQL · Firebase | Financement participatif & investissement |
 | 🏫 **Scolariis** | Flutter · PHP · MySQL · Firebase | Documents administratifs scolaires en ligne |
 | 🎵 **229MusicRadio** | Flutter · PHP · MySQL · Firebase | Diffusion musique béninoise |
 | 📺 **TOSSIN** | Flutter · PHP · MySQL · Firebase | Conformité légale ORTB/SRTB |
