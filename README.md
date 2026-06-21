@@ -1,18 +1,19 @@
 <!-- ============================================================== -->
 <!--  Mike E.S. Chokki — GitHub Profile README                      -->
 <!--  Theme: Minimal Cyan · Indigo · Deep Navy                      -->
+<!--  Pivot: Back-End Engineer & Architect · Go · Spring Boot       -->
 <!-- ============================================================== -->
 
 <div align="center">
 
 <a href="https://github.com/MikeCHOKKI">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Mike%20E.S.%20Chokki&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Back-End%20Architect%20%C2%B7%20Mobile%20Engineer&descAlignY=58&descSize=16&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Mike%20E.S.%20Chokki&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Back-End%20Engineer%20%26%20Architect%20%C2%B7%20Go%20%C2%B7%20Spring%20Boot%20%C2%B7%20Distributed%20Systems&descAlignY=58&descSize=16&animation=fadeIn" alt="header" />
 </a>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+%E2%80%94+Flutter+%2B+Next.js;Back-End+Architect+%E2%80%94+PHP+%2B+Go+%2B+Python;Mobile+%26+Cross-Platform+Engineer;Building+Digital+Solutions+for+West+Africa+%F0%9F%8C%8D" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=760&lines=Back-End+Engineer+%26+Architect+%E2%80%94+Go+%2B+Spring+Boot;Distributed+Systems+%E2%80%94+Event+Sourcing+%2B+CQRS;gRPC+%2B+Kafka+%2B+Redis+%2B+PostgreSQL;Building+High-Performance+Backends+for+West+Africa+%F0%9F%8C%8D" alt="typing" />
 </a>
 
 <br/><br/>
@@ -39,13 +40,13 @@ const mike = {
   location:   ["Cotonou 🇧🇯", "Dakar 🇸🇳"],
   role:       "Développeur d'Application @ Jilmonde Consulting",
   previously: "Chef d'Exploitation IT @ RAB-TECH",
-  focus:      ["Back-End robuste", "Cross-platform mobile", "Solutions pour l'Afrique"],
-  learning:   ["Go advanced", "AI Coding Agents", "Edge architectures"],
+  focus:      ["Distributed Systems", "High-Performance Go APIs", "Enterprise Java / Spring Boot"],
+  learning:   ["Kubernetes", "Event-Driven Architectures (Kafka)", "Advanced Concurrency"],
   motto:      "From spec to production — du cahier des charges au déploiement."
 };
 ```
 
-Développeur basé entre **Cotonou** et **Dakar**, je conçois des architectures back-end robustes, des applications cross-platform performantes et des solutions digitales scalables. Curieux, proactif, en veille permanente sur les technologies adaptées au contexte ouest-africain.
+Back-End Engineer basé entre **Cotonou** et **Dakar**, je conçois des architectures distribuées robustes et scalables. Mon approche associe la performance native de Go pour les services à haute concurrence à la rigueur enterprise de Spring Boot pour les systèmes transactionnels critiques.
 
 <br/>
 
@@ -57,48 +58,49 @@ Développeur basé entre **Cotonou** et **Dakar**, je conçois des architectures
 
 #### Langages
 
-![JS](https://skillicons.dev/icons?i=js)
-![TS](https://skillicons.dev/icons?i=ts)
-![Dart](https://skillicons.dev/icons?i=dart)
 ![Go](https://skillicons.dev/icons?i=go)
-![PHP](https://skillicons.dev/icons?i=php)
+![Java](https://skillicons.dev/icons?i=java)
+![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Python](https://skillicons.dev/icons?i=python)
+![PHP](https://skillicons.dev/icons?i=php)
+![Dart](https://skillicons.dev/icons?i=dart)
 
 </td>
 <td valign="top" width="33%">
 
-#### Frameworks & UI
+#### Back-End & Frameworks
 
-![Flutter](https://skillicons.dev/icons?i=flutter)
-![Next](https://skillicons.dev/icons?i=nextjs)
-![React](https://skillicons.dev/icons?i=react)
-![Laravel](https://skillicons.dev/icons?i=laravel)
-![Django](https://skillicons.dev/icons?i=django)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=0a0a1a)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white&labelColor=0a0a1a)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white&labelColor=0a0a1a)
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
 
 </td>
 <td valign="top" width="33%">
 
 #### Data & Infra
 
-![Postgres](https://skillicons.dev/icons?i=postgres)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![Supabase](https://skillicons.dev/icons?i=supabase)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Redis](https://skillicons.dev/icons?i=redis)
 ![Docker](https://skillicons.dev/icons?i=docker)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Supabase](https://skillicons.dev/icons?i=supabase)
 ![Git](https://skillicons.dev/icons?i=git)
 
 </td>
 </tr>
 </table>
 
-#### 🤖 AI Coding Agents
+#### 🔧 Tools & AI Coding Agents
 
 ![OpenCode](https://img.shields.io/badge/OpenCode-0a0a1a?style=for-the-badge&logoColor=06B6D4)
 ![Windsurf](https://img.shields.io/badge/Windsurf-0B5E8A?style=for-the-badge&logoColor=white)
 ![AntiGravity](https://img.shields.io/badge/AntiGravity-4f46e5?style=for-the-badge&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white&labelColor=0a0a1a)
+![Cobra](https://img.shields.io/badge/Cobra-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0a0a1a)
 
 <br/>
 
@@ -107,8 +109,8 @@ Développeur basé entre **Cotonou** et **Dakar**, je conçois des architectures
 <details open>
 <summary><b>👨‍💻 2026 → présent · Développeur d'Application</b> — Jilmonde Consulting <code>Dakar</code></summary>
 
-- Développement d'applications sur mesure
-- Intégration d'API tierces
+- Développement d'applications sur mesure (Java/Spring Boot, Go)
+- Intégration d'API tierces & architectures événementielles
 - Ateliers fonctionnels & techniques
 - Reporting et suivi de planning projet
 </details>
@@ -163,6 +165,51 @@ Développeur basé entre **Cotonou** et **Dakar**, je conçois des architectures
 <tr>
 <td width="50%" valign="top">
 
+### 🏦 Core Banking
+
+**Event Sourcing + CQRS — Spring Boot 3.4 / Java 21**
+
+Système bancaire transactionnel complet avec architecture événementielle. 6 modules Maven, projections CQRS, Kafka KRaft, idempotence Redis.
+
+```yaml
+Back-end : Spring Boot 3.4.4 · Java 21 · Maven
+Events   : Apache Kafka KRaft (3 partitions)
+CQRS     : Event Store (JSONB) + Read model PostgreSQL
+Infra    : Redis (idempotence + cache) · Docker Compose
+Tests    : 68 tests (JUnit 5 · Mockito · WebMvcTest)
+CI/CD    : GitHub Actions (PostgreSQL + Redis services)
+```
+
+<a href="https://github.com/MikeCHOKKI/core-banking"><img src="https://img.shields.io/badge/📂_core--banking-06B6D4?style=for-the-badge&labelColor=0a0a1a" /></a>
+<img src="https://img.shields.io/badge/%E2%98%95_Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0a0a1a" />
+<img src="https://img.shields.io/badge/68_tests-passing-3FB950?style=for-the-badge&labelColor=0a0a1a" />
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ NexusFlow
+
+**Microservices distribué — Go × gRPC × Redis × PostgreSQL**
+
+Dashboard temps réel avec architecture polyglotte : gateway Go, services spécialisés, sync gRPC, async Redis Pub/Sub.
+
+```yaml
+Gateway  : Go · gRPC · REST
+Services : Go (catalog/user/payment) · PHP 8 (order)
+Messaging: Redis Pub/Sub
+Storage  : PostgreSQL (schémas par service)
+Frontend : React · TS · Tailwind v4
+Infra    : Docker Compose · 10 containers
+```
+
+<a href="https://github.com/MikeCHOKKI/nexusflow"><img src="https://img.shields.io/badge/📂_nexusflow-06B6D4?style=for-the-badge&labelColor=0a0a1a" /></a>
+<a href="screenshots/nexusflow/nexusflow-dashboard.png"><img src="https://img.shields.io/badge/📸_Dashboard-4f46e5?style=for-the-badge&labelColor=0a0a1a" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🎬 Prod+ Entertainment
 
 **Streaming HLS & monétisation automatisée**
@@ -170,11 +217,11 @@ Développeur basé entre **Cotonou** et **Dakar**, je conçois des architectures
 Plateforme de streaming haute performance avec partage de revenus automatisé et portail d'autonomie pour les acteurs.
 
 ```yaml
-Frontend  : Next.js 16 · React 19 · TS · Tailwind v4
-Backend   : PHP 8 · MariaDB
+Frontend : Next.js 16 · React 19 · TS · Tailwind v4
+Backend  : PHP 8 · MariaDB
 Streaming : HLS.js
-Sec.      : RBAC · JWT · Rate Limiting
-Infra     : Vercel + Hostinger
+Sec.     : RBAC · JWT · Rate Limiting
+Infra    : Vercel + Hostinger
 ```
 
 <a href="https://prodentertainment.vercel.app"><img src="https://img.shields.io/badge/🌐_prodentertainment.vercel.app-06B6D4?style=for-the-badge&labelColor=0a0a1a" /></a>
@@ -206,7 +253,7 @@ AI/ML    : Hugging Face
 
 **Edtech francophone × BYU Pathway**
 
-Plateforme de [LucidForge Africa](https://lucidforgeafrica.com) connectant les étudiants ouest-africains aux universités américaines.
+Plateforme connectant les étudiants ouest-africains aux universités américaines.
 
 ```yaml
 Frontend : React · Vite · TS · Tailwind
@@ -235,62 +282,23 @@ Cloud    : Firebase
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ NexusFlow
-
-**Microservices distribué — Go × PHP × gRPC × Redis × PostgreSQL**
-
-Dashboard temps réel avec architecture polyglotte : gateway Go, services spécialisés (PHP, Go), sync gRPC, async Redis Pub/Sub, stockage PostgreSQL.
-
-```yaml
-Gateway  : Go · gRPC · REST
-Services : Go (catalog/user/payment) · PHP 8 (order)
-Messaging: Redis Pub/Sub
-Storage  : PostgreSQL (schémas par service)
-Frontend : React · TS · Tailwind v4
-Infra    : Docker Compose · 10 containers
-```
-
-<a href="https://github.com/MikeCHOKKI/nexusflow"><img src="https://img.shields.io/badge/📂_nexusflow-06B6D4?style=for-the-badge&labelColor=0a0a1a" /></a>
-<a href="screenshots/nexusflow/nexusflow-dashboard.png"><img src="https://img.shields.io/badge/📸_Dashboard-4f46e5?style=for-the-badge&labelColor=0a0a1a" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 AfriStartup
-
-**Financement participatif & investissement**
-
-Plateforme de crowdfunding dédiée aux startups africaines, avec gestion des investisseurs, campagnes de levée de fonds, et suivi de projets.
-
-```yaml
-Frontend : Flutter
-Backend  : PHP · MySQL
-Cloud    : Firebase (Auth + DB)
-```
-
-</td>
-</tr>
 </table>
 
 <details>
-<summary><b>📂 Voir tous les autres projets (9)</b></summary>
+<summary><b>📂 Autres projets (8)</b></summary>
 
 <br/>
 
 | Projet | Stack | Description |
 |:--|:--|:--|
-| 🏫 **Scolariis** | Flutter · PHP · MySQL · Firebase | Documents administratifs scolaires en ligne |
+| 🚀 **AfriStartup** | Flutter · PHP · MySQL · Firebase | Crowdfunding startups africaines |
+| 🏫 **Scolariis** | Flutter · PHP · MySQL · Firebase | Documents administratifs scolaires |
 | 🎵 **229MusicRadio** | Flutter · PHP · MySQL · Firebase | Diffusion musique béninoise |
 | 📺 **TOSSIN** | Flutter · PHP · MySQL · Firebase | Conformité légale ORTB/SRTB |
 | 👥 **PRODIJ (BDS)** | Flutter · PHP · MySQL · Firebase | Insertion professionnelle des jeunes |
 | 💱 **Xof Trader** | Flutter · PHP · MySQL | Échange sécurisé de cryptomonnaies |
 | 🌸 **ELLES** | Flutter · PHP · Firebase | Autonomisation féminine |
-| ⚙️ **LucidCodeForge** | Next.js · Supabase | Applications sur mesure |
 | 🔗 **Framezer & Vafi** | Flutter · PHP · MySQL · Firebase | Communication & services |
-| 🏠 **BTC Maison** | AutoCAD | Plans de construction |
 
 </details>
 
@@ -298,12 +306,14 @@ Cloud    : Firebase (Auth + DB)
 
 ## <picture><img src="https://media.giphy.com/media/dHr9aTBVqFvio2W0nu/giphy.gif" width="28"/></picture> &nbsp;Open Source
 
-| Dépôt | Description |
-|:--|:--|
-| [**lfa-cli-ai**](https://github.com/MikeCHOKKI/lfa-cli-ai) | CLI d'installation OpenCode `Go` `Cobra` `Bubbletea` |
-| [**lfa-cli-ui**](https://github.com/MikeCHOKKI/lfa-cli-ui) | Landing page LFA CLI `React` `Vite` `Tailwind` |
-| [**php-auth**](https://github.com/MikeCHOKKI/php-auth) | RBAC + JWT RS256 `PHP 8` `PostgreSQL` `Docker` |
-| [**yt-downloader**](https://github.com/MikeCHOKKI/yt-downloader) | CLI YouTube `TypeScript` |
+| Dépôt | Stack | Description |
+|:--|:--|:--|
+| [**core-banking**](https://github.com/MikeCHOKKI/core-banking) | `Java 21` `Spring Boot` `Kafka` `PostgreSQL` | Event Sourcing + CQRS — 68 tests, 6 modules |
+| [**nexusflow**](https://github.com/MikeCHOKKI/nexusflow) | `Go` `gRPC` `Redis` `PostgreSQL` | Microservices distribués polyglottes |
+| [**lfa-cli-ai**](https://github.com/MikeCHOKKI/lfa-cli-ai) | `Go` `Cobra` `Bubbletea` | CLI d'installation OpenCode |
+| [**lfa-cli-ui**](https://github.com/MikeCHOKKI/lfa-cli-ui) | `React` `Vite` `Tailwind` | Landing page LFA CLI |
+| [**php-auth**](https://github.com/MikeCHOKKI/php-auth) | `PHP 8` `PostgreSQL` `Docker` | RBAC + JWT RS256 |
+| [**yt-downloader**](https://github.com/MikeCHOKKI/yt-downloader) | `TypeScript` | CLI YouTube |
 
 <br/>
 
@@ -348,6 +358,6 @@ Cloud    : Firebase (Auth + DB)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
 
-<sub>🤖 Statistiques maintenues automatiquement par GitHub Actions · Dernière mise à jour : 15 juin 2026</sub>
+<sub>🤖 Maintenu par des agents AI · Dernière mise à jour : 21 juin 2026</sub>
 
 </div>
