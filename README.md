@@ -292,6 +292,45 @@ Cloud    : Firebase
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 TikTok Agent
+
+**Agent TikTok autonome — Discord + IA générative**
+
+Génération, planification et automatisation de contenu TikTok 24/7 depuis Discord. Pipeline complet : script (Llama 3), image (SDXL, SD 2.1, Kandinsky 2.2, Pillow), post-processing, scheduler.
+
+```yaml
+Stack    : Python 3.11 · discord.py · HF Inference
+Modèles  : Llama 3 70B · SDXL-Turbo · SD 2.1 · Kandinsky 2.2
+Jobs     : 5 jobs APScheduler (génération 2×/jour + rapport hebdo)
+Tests    : 46 tests unitaires (pytest asyncio)
+Coût     : Zéro — HF Spaces CPU Free + API gratuite
+```
+
+<a href="https://github.com/MikeCHOKKI/tiktok-agent"><img src="https://img.shields.io/badge/📂_tiktok--agent-06B6D4?style=for-the-badge&labelColor=0a0a1a" /></a>
+<img src="https://img.shields.io/badge/46_tests-passing-3FB950?style=for-the-badge&labelColor=0a0a1a" />
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Success-Delivery
+
+**E-Learning mobile & web**
+
+Plateforme d'apprentissage avec suivi temps réel, dédiée à la reconversion chauffeur-livreur.
+
+```yaml
+Frontend : Flutter · Web
+Backend  : PHP · MySQL
+Cloud    : Firebase
+```
+
+<a href="https://success-delivery.com/"><img src="https://img.shields.io/badge/🌐_success--delivery.com-06B6D4?style=for-the-badge&labelColor=0a0a1a" /></a>
+
+</td>
+</tr>
 </table>
 
 <details>
@@ -322,6 +361,7 @@ Cloud    : Firebase
 | [**nexusflow**](https://github.com/MikeCHOKKI/nexusflow) | `Go` `gRPC` `Redis` `PostgreSQL` | Microservices distribués polyglottes |
 | [**lfa-cli-ai**](https://github.com/MikeCHOKKI/lfa-cli-ai) | `Go` `Cobra` `Bubbletea` | CLI d'installation OpenCode |
 | [**lfa-cli-ui**](https://github.com/MikeCHOKKI/lfa-cli-ui) | `React` `Vite` `Tailwind` | Landing page LFA CLI |
+| [**tiktok-agent**](https://github.com/MikeCHOKKI/tiktok-agent) | `Python` `discord.py` `HF` `APScheduler` | Agent TikTok autonome — 46 tests, 41 fichiers |
 | [**php-auth**](https://github.com/MikeCHOKKI/php-auth) | `PHP 8` `PostgreSQL` `Docker` | RBAC + JWT RS256 |
 | [**yt-downloader**](https://github.com/MikeCHOKKI/yt-downloader) | `TypeScript` | CLI YouTube |
 
