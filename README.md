@@ -7,8 +7,18 @@
 <div align="center">
 
 <a href="https://github.com/MikeCHOKKI">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Mike%20E.S.%20Chokki&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Back-End%20Engineer%20%26%20Architect%20%C2%B7%20Go%20%C2%B7%20Spring%20Boot%20%C2%B7%20Distributed%20Systems&descAlignY=58&descSize=16&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header" alt="header wave" />
 </a>
+
+<br/>
+
+<h1>
+  <a href="https://github.com/MikeCHOKKI" style="text-decoration:none;color:#06B6D4;">
+    Mike E.S. Chokki
+  </a>
+</h1>
+
+<p><em>Back-End Engineer &amp; Architect · Go · Spring Boot · Distributed Systems</em></p>
 
 <br/>
 
