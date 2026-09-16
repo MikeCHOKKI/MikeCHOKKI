@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="392" viewBox="0 0 860 392" role="img" aria-labelledby="title desc">
+  <title id="title">mike@lucidforge — terminal</title>
+  <desc id="desc">Mike E.S. Chokki, Fondateur de LucidForge Africa, Back-End Engineer et Architecte. Systèmes distribués, Go, Java Spring Boot, Laravel, Flutter. Basé à Dakar et Cotonou.</desc>
+  <style>
+    .t { font-family: 'JetBrains Mono', 'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 16px; }
+    .user { fill: #D4A017; font-weight: 700; }
+    .sep { fill: #64748B; }
+    .path { fill: #F5E6B8; }
+    .cmd { fill: #F8FAFC; }
+    .out { fill: #CBD5E1; }
+    .name { fill: #D4A017; font-weight: 700; font-size: 22px; }
+    .accent { fill: #D4A017; }
+    .muted { fill: #64748B; }
+    .l { opacity: 0; animation: show 0.01s linear forwards; }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes show { to { opacity: 1; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .l { opacity: 1; animation: none; }
+      .cursor { animation: none; }
+    }
+  </style>
+
+  <!-- Fenêtre -->
+  <rect x="1" y="1" width="858" height="390" rx="12" fill="#020617" stroke="#D4A017" stroke-opacity="0.45" stroke-width="1.5"/>
+  <path d="M1 13 a12 12 0 0 1 12 -12 h834 a12 12 0 0 1 12 12 v25 h-858 z" fill="#0B1220"/>
+  <line x1="1" y1="38" x2="859" y2="38" stroke="#D4A017" stroke-opacity="0.25"/>
+  <circle cx="24" cy="20" r="6" fill="#EF4444"/>
+  <circle cx="44" cy="20" r="6" fill="#EAB308"/>
+  <circle cx="64" cy="20" r="6" fill="#22C55E"/>
+  <text x="430" y="25" text-anchor="middle" class="t muted" font-size="13">mike@lucidforge: ~ — zsh</text>
+
+  <g class="t">
+    <g class="l" style="animation-delay:0.3s">
+      <text x="24" y="74"><tspan class="user">mike@lucidforge</tspan><tspan class="sep">:</tspan><tspan class="path">~</tspan><tspan class="sep">$ </tspan><tspan class="cmd">whoami</tspan></text>
+    </g>
+    <g class="l" style="animation-delay:0.9s">
+      <text x="24" y="106" class="name">Mike E.S. Chokki</text>
+    </g>
+    <g class="l" style="animation-delay:1.3s">
+      <text x="24" y="134" class="out">Fondateur <tspan class="accent">@ LucidForge Africa</tspan> · Back-End Engineer &amp; Architect</text>
+    </g>
+
+    <g class="l" style="animation-delay:2.2s">
+      <text x="24" y="176"><tspan class="user">mike@lucidforge</tspan><tspan class="sep">:</tspan><tspan class="path">~</tspan><tspan class="sep">$ </tspan><tspan class="cmd">cat focus.txt</tspan></text>
+    </g>
+    <g class="l" style="animation-delay:2.8s">
+      <text x="24" y="204" class="out">Systèmes distribués · Go · Java/Spring Boot · Laravel · Flutter · PostgreSQL</text>
+    </g>
+
+    <g class="l" style="animation-delay:3.7s">
+      <text x="24" y="246"><tspan class="user">mike@lucidforge</tspan><tspan class="sep">:</tspan><tspan class="path">~</tspan><tspan class="sep">$ </tspan><tspan class="cmd">cat location.txt</tspan></text>
+    </g>
+    <g class="l" style="animation-delay:4.3s">
+      <text x="24" y="274" class="out">Dakar, Sénégal <tspan class="accent">⇄</tspan> Cotonou, Bénin</text>
+    </g>
+
+    <g class="l" style="animation-delay:5.2s">
+      <text x="24" y="316"><tspan class="user">mike@lucidforge</tspan><tspan class="sep">:</tspan><tspan class="path">~</tspan><tspan class="sep">$ </tspan><tspan class="cmd">echo $MISSION</tspan></text>
+    </g>
+    <g class="l" style="animation-delay:5.8s">
+      <text x="24" y="344" class="out">Des infrastructures numériques souveraines pour l'Afrique de l'Ouest.</text>
+    </g>
+
+    <g class="l" style="animation-delay:6.6s">
+      <text x="24" y="376"><tspan class="user">mike@lucidforge</tspan><tspan class="sep">:</tspan><tspan class="path">~</tspan><tspan class="sep">$ </tspan></text>
+      <rect class="cursor" x="222" y="362" width="10" height="18" fill="#D4A017"/>
+    </g>
+  </g>
+</svg>

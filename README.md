@@ -1,413 +1,116 @@
-<!-- ============================================================== -->
-<!--  Mike E.S. Chokki — GitHub Profile README                      -->
-<!--  Theme: Minimal Cyan · Indigo · Deep Navy                      -->
-<!--  Pivot: Back-End Engineer & Architect · Go · Spring Boot       -->
-<!-- ============================================================== -->
-
 <div align="center">
 
-<a href="https://github.com/MikeCHOKKI">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header" alt="header wave" />
-</a>
+<img src="assets/terminal-hero.svg" alt="mike@lucidforge — Mike E.S. Chokki, Fondateur de LucidForge Africa, Back-End Engineer & Architect" width="100%" />
 
 <br/>
 
-<h1>
-  <a href="https://github.com/MikeCHOKKI" style="text-decoration:none;color:#06B6D4;">
-    Mike E.S. Chokki
-  </a>
-</h1>
-
-<p><em>Back-End Engineer &amp; Architect · Go · Spring Boot · Distributed Systems</em></p>
-
-<br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=760&lines=Back-End+Engineer+%26+Architect+%E2%80%94+Go+%2B+Spring+Boot;Distributed+Systems+%E2%80%94+Event+Sourcing+%2B+CQRS;gRPC+%2B+Kafka+%2B+Redis+%2B+PostgreSQL;Building+High-Performance+Backends+for+West+Africa+%F0%9F%8C%8D" alt="typing" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/MikeCHOKKI"><img src="https://komarev.com/ghpvc/?username=MikeCHOKKI&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS" /></a>
-<img src="https://img.shields.io/github/followers/MikeCHOKKI?style=for-the-badge&color=4f46e5&labelColor=0a0a1a&logo=github" />
-<img src="https://img.shields.io/badge/Based_in-Cotonou_%E2%86%92_Dakar-06B6D4?style=for-the-badge&labelColor=0a0a1a" />
-<img src="https://img.shields.io/badge/Status-Open_to_collab-3FB950?style=for-the-badge&labelColor=0a0a1a" />
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/mikechokki"><img src="https://img.shields.io/badge/LinkedIn-mikechokki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a1a" /></a>
-<a href="https://twitter.com/MikeCHOKKI"><img src="https://img.shields.io/badge/Twitter-@MikeCHOKKI-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0a0a1a" /></a>
-<a href="mailto:mikechokki5@gmail.com"><img src="https://img.shields.io/badge/Email-mikechokki5@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a1a" /></a>
+[![LucidForge Africa](https://img.shields.io/badge/LucidForge_Africa-Fondateur-D4A017?style=for-the-badge&labelColor=020617)](https://lucidforgeafrica.com)
+[![ForgeLab](https://img.shields.io/badge/ForgeLab-open_source-D4A017?style=for-the-badge&labelColor=020617)](https://github.com/forgelab-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mikechokki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617)](https://linkedin.com/in/mikechokki)
+[![X](https://img.shields.io/badge/X-@MikeChokki2-F8FAFC?style=for-the-badge&logo=x&logoColor=white&labelColor=020617)](https://x.com/MikeChokki2)
+[![Email](https://img.shields.io/badge/Email-mikechokki5@gmail.com-D4A017?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617)](mailto:mikechokki5@gmail.com)
 
 </div>
 
-<br/>
+## `$ cat about.md`
 
-## <picture><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/></picture> &nbsp;À propos
+Je construis des **infrastructures numériques souveraines pour l'Afrique de l'Ouest** : des produits qui tournent sur les serveurs de leurs propriétaires, se paient en FCFA et se supportent en français.
+
+Côté technique, j'associe la performance de **Go** pour les services concurrents, la rigueur de **Spring Boot** pour les systèmes transactionnels, et **Laravel / React** pour livrer vite des produits utilisables. Basé entre **Dakar** et **Cotonou**.
 
 ```ts
 const mike = {
-  location:   ["Cotonou 🇧🇯", "Dakar 🇸🇳"],
-  role:       "Développeur d'Application @ Jilmonde Consulting",
-  previously: "Chef d'Exploitation IT @ RAB-TECH",
-  focus:      ["Distributed Systems", "High-Performance Go APIs", "Enterprise Java / Spring Boot"],
-  learning:   ["Kubernetes", "Event-Driven Architectures (Kafka)", "Advanced Concurrency"],
-  motto:      "From spec to production — du cahier des charges au déploiement."
+  role:       "Fondateur @ LucidForge Africa · Back-End Engineer & Architect",
+  jour:       "Développeur d'Application @ Jilmonde Consulting (Dakar)",
+  focus:      ["Systèmes distribués", "Event Sourcing / CQRS", "Souveraineté des données"],
+  apprend:    ["Kubernetes", "Kafka Streams", "Go concurrency avancée"],
+  devise:     "Du cahier des charges au déploiement.",
 };
 ```
 
-Back-End Engineer basé entre **Cotonou** et **Dakar**, je conçois des architectures distribuées robustes et scalables. Mon approche associe la performance native de Go pour les services à haute concurrence à la rigueur enterprise de Spring Boot pour les systèmes transactionnels critiques.
+## `$ ls ~/lucidforge-africa`
 
-<br/>
+| Produit | Ce que c'est | Stack | État |
+|:--|:--|:--|:--|
+| **We Forge Commerce** | Boutique e-commerce en marque blanche, livrée sous licence à chaque client | `Laravel 13` `React 19 + Inertia` `MySQL` `KKiaPay/FedaPay` | Boutiques clientes en production |
+| [**ForgeNet**](https://github.com/forgelab-dev/lfa-forgenet) | Cloud souverain auto-hébergé, avec IA sysadmin 100 % locale (Ollama) | `Go` `React` `Flutter` `Caddy` | Pré-alpha, open source (Apache 2.0) |
+| [**lucid_core_flutter**](https://pub.dev/packages/lucid_core_flutter) | Socle Flutter commun : client API, auth, stockage chiffré, thème, widgets | `Dart` `Flutter` | Publié sur pub.dev, éditeur vérifié |
+| **Brain** | Socle d'infrastructure mutualisé des plateformes LFA | `Traefik v3` `PostgreSQL` `Redis` `MinIO` `Elixir` | En construction |
+| [**ForgeLab**](https://github.com/forgelab-dev) | Le laboratoire open source de LucidForge Africa | — | Contributions bienvenues |
 
-## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/></picture> &nbsp;Stack Technique
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-#### Langages
-
-![Go](https://skillicons.dev/icons?i=go)
-![Java](https://skillicons.dev/icons?i=java)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Python](https://skillicons.dev/icons?i=python)
-![PHP](https://skillicons.dev/icons?i=php)
-![Dart](https://skillicons.dev/icons?i=dart)
-
-</td>
-<td valign="top" width="33%">
-
-#### Back-End & Frameworks
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=0a0a1a)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white&labelColor=0a0a1a)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white&labelColor=0a0a1a)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![Laravel](https://skillicons.dev/icons?i=laravel)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-
-</td>
-<td valign="top" width="33%">
-
-#### Data & Infra
-
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![Redis](https://skillicons.dev/icons?i=redis)
-![Docker](https://skillicons.dev/icons?i=docker)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Supabase](https://skillicons.dev/icons?i=supabase)
-![Git](https://skillicons.dev/icons?i=git)
-
-</td>
-</tr>
-</table>
-
-#### 🔧 Tools & AI Coding Agents
-
-![OpenCode](https://img.shields.io/badge/OpenCode-0a0a1a?style=for-the-badge&logoColor=06B6D4)
-![Windsurf](https://img.shields.io/badge/Windsurf-0B5E8A?style=for-the-badge&logoColor=white)
-![AntiGravity](https://img.shields.io/badge/AntiGravity-4f46e5?style=for-the-badge&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white&labelColor=0a0a1a)
-![Cobra](https://img.shields.io/badge/Cobra-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0a0a1a)
-
-<br/>
-
-## <picture><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="28"/></picture> &nbsp;Expérience
-
-<details open>
-<summary><b>👨‍💻 2026 → présent · Développeur d'Application</b> — Jilmonde Consulting <code>Dakar</code></summary>
-
-- Développement d'applications sur mesure (Java/Spring Boot, Go)
-- Intégration d'API tierces & architectures événementielles
-- Ateliers fonctionnels & techniques
-- Reporting et suivi de planning projet
-</details>
-
-<br/>
-
-<details>
-<summary><b>🖥️ 2024 → 2025 · Chef d'Exploitation IT</b> — RAB-TECH <code>Cotonou</code></summary>
-
-- Supervision équipe technique & infrastructure IT
-- Gestion sécurité & incidents
-- Transformation digitale
-- Prestataire dev mobile / web / desktop
-</details>
-
-<br/>
-
-<details>
-<summary><b>🎨 2023 → 2024 · Designer Textile CAD</b> — Glo Djibe Industrial Zone <code>Bénin</code></summary>
-
-- Création de motifs textiles via logiciels CAD
-- Transformation d'illustrations en produits commercialisables
-- Collaboration avec équipes de production
-</details>
-
-<br/>
-
-<details>
-<summary><b>💻 2021 → 2023 · Prestataire Informatique</b> — RAB-TECH <code>Bénin</code></summary>
-
-- Développement d'applications mobiles & jeux vidéo
-- Approche centrée sur logique, créativité & performance
-- Prestations mobile / web / desktop
-</details>
-
-<br/>
-
-## <picture><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"/></picture> &nbsp;Formation
-
-| Année | Institution | Titre |
-|:-----:|:------------|:------|
-| `2022` | IFRI Abomey Calavi | **Licence en Génie Logiciel** |
-| `2017` | Collège Catholique Hibiscus, Parakou | **Baccalauréat** |
-|  `—`   | Udemy | Flutter UI Bootcamp |
-|  `—`   | Udemy | Dart & Flutter |
-
-<br/>
-
-## <picture><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/></picture> &nbsp;Projets Phares
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏦 Core Banking
-
-**Event Sourcing + CQRS — Spring Boot 3.4 / Java 21**
-
-Système bancaire transactionnel complet avec architecture événementielle. 6 modules Maven, projections CQRS, Kafka KRaft, idempotence Redis.
+## `$ cat stack.yml`
 
 ```yaml
-Back-end : Spring Boot 3.4.4 · Java 21 · Maven
-Events   : Apache Kafka KRaft (3 partitions)
-CQRS     : Event Store (JSONB) + Read model PostgreSQL
-Infra    : Redis (idempotence + cache) · Docker Compose
-Tests    : 68 tests (JUnit 5 · Mockito · WebMvcTest)
-CI/CD    : GitHub Actions (PostgreSQL + Redis services)
+langages:    [Go, Java, PHP, TypeScript, Dart, Python]
+back-end:    [Spring Boot, Laravel, gRPC, Kafka, FastAPI]
+front-end:   [React, Inertia, Next.js, Angular, Tailwind, Flutter]
+données:     [PostgreSQL, MySQL, Redis, MinIO, MariaDB]
+infra:       [Docker, Traefik, Caddy, GitHub Actions, GHCR, VPS]
+paiement:    [KKiaPay, FedaPay]   # mobile money & carte, zone FCFA
+qualité:     [JUnit 5, Testcontainers, PHPUnit, PHPStan, Vitest]
+outils_ia:   [Claude Code, OpenCode, Windsurf, Ollama]
 ```
 
-<a href="https://github.com/MikeCHOKKI/core-banking"><img src="https://img.shields.io/badge/📂_core--banking-06B6D4?style=for-the-badge&labelColor=0a0a1a" /></a>
-<img src="https://img.shields.io/badge/%E2%98%95_Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0a0a1a" />
-<img src="https://img.shields.io/badge/68_tests-passing-3FB950?style=for-the-badge&labelColor=0a0a1a" />
+## `$ ls ~/projects --featured`
 
-</td>
-<td width="50%" valign="top">
-
-### ⚡ NexusFlow
-
-**Microservices distribué — Go × gRPC × Redis × PostgreSQL**
-
-Dashboard temps réel avec architecture polyglotte : gateway Go, services spécialisés, sync gRPC, async Redis Pub/Sub.
-
-```yaml
-Gateway  : Go · gRPC · REST
-Services : Go (catalog/user/payment) · PHP 8 (order)
-Messaging: Redis Pub/Sub
-Storage  : PostgreSQL (schémas par service)
-Frontend : React · TS · Tailwind v4
-Infra    : Docker Compose · 10 containers
-```
-
-<a href="https://github.com/MikeCHOKKI/nexusflow"><img src="https://img.shields.io/badge/📂_nexusflow-06B6D4?style=for-the-badge&labelColor=0a0a1a" /></a>
-<a href="screenshots/nexusflow/nexusflow-dashboard.png"><img src="https://img.shields.io/badge/📸_Dashboard-4f46e5?style=for-the-badge&labelColor=0a0a1a" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎬 Prod+ Entertainment
-
-**Streaming HLS & monétisation automatisée**
-
-Plateforme de streaming haute performance avec partage de revenus automatisé et portail d'autonomie pour les acteurs.
-
-```yaml
-Frontend : Next.js 16 · React 19 · TS · Tailwind v4
-Backend  : PHP 8 · MariaDB
-Streaming : HLS.js
-Sec.     : RBAC · JWT · Rate Limiting
-Infra    : Vercel + Hostinger
-```
-
-<a href="https://prodentertainment.vercel.app"><img src="https://img.shields.io/badge/🌐_prodentertainment.vercel.app-06B6D4?style=for-the-badge&labelColor=0a0a1a" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 Buzup
-
-**Écosystème business ↔ client**
-
-Application multi-plateforme : Annuaire, MonCV, BuzupPharma, BuzupSchool.
-
-```yaml
-Frontend : Flutter
-Backend  : PHP · MySQL
-Cloud    : Firebase (Auth + DB)
-AI/ML    : Hugging Face
-```
-
-<a href="https://buzup.app/"><img src="https://img.shields.io/badge/🌐_buzup.app-06B6D4?style=for-the-badge&labelColor=0a0a1a" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 WeForgeEdu
-
-**Edtech francophone × BYU Pathway**
-
-Plateforme connectant les étudiants ouest-africains aux universités américaines.
-
-```yaml
-Frontend : React · Vite · TS · Tailwind
-Backend  : Laravel (PHP 8)
-Url      : wfe.lucidforgeafrica.com
-```
-
-*Workflow candidature BYU · simulateur coûts/bourses · test d'anglais · mentorat diplômés.*
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 Success-Delivery
-
-**E-Learning mobile & web**
-
-Plateforme d'apprentissage avec suivi temps réel, dédiée à la reconversion chauffeur-livreur.
-
-```yaml
-Frontend : Flutter · Web
-Backend  : PHP · MySQL
-Cloud    : Firebase
-```
-
-<a href="https://success-delivery.com/"><img src="https://img.shields.io/badge/🌐_success--delivery.com-06B6D4?style=for-the-badge&labelColor=0a0a1a" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 TikTok Agent
-
-**Agent TikTok autonome — Discord + IA générative**
-
-Génération, planification et automatisation de contenu TikTok 24/7 depuis Discord. Pipeline complet : script (Llama 3), image (SDXL, SD 2.1, Kandinsky 2.2, Pillow), post-processing, scheduler.
-
-```yaml
-Stack    : Python 3.11 · discord.py · HF Inference
-Modèles  : Llama 3 70B · SDXL-Turbo · SD 2.1 · Kandinsky 2.2
-Jobs     : 5 jobs APScheduler (génération 2×/jour + rapport hebdo)
-Tests    : 46 tests unitaires (pytest asyncio)
-Coût     : Zéro — HF Spaces CPU Free + API gratuite
-```
-
-<a href="https://github.com/MikeCHOKKI/tiktok-agent"><img src="https://img.shields.io/badge/📂_tiktok--agent-06B6D4?style=for-the-badge&labelColor=0a0a1a" /></a>
-<img src="https://img.shields.io/badge/46_tests-passing-3FB950?style=for-the-badge&labelColor=0a0a1a" />
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 Success-Delivery
-
-**E-Learning mobile & web**
-
-Plateforme d'apprentissage avec suivi temps réel, dédiée à la reconversion chauffeur-livreur.
-
-```yaml
-Frontend : Flutter · Web
-Backend  : PHP · MySQL
-Cloud    : Firebase
-```
-
-<a href="https://success-delivery.com/"><img src="https://img.shields.io/badge/🌐_success--delivery.com-06B6D4?style=for-the-badge&labelColor=0a0a1a" /></a>
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>📂 Autres projets (8)</b></summary>
-
-<br/>
-
-| Projet | Stack | Description |
+| Projet | Description | Stack |
 |:--|:--|:--|
-| 🚀 **AfriStartup** | Flutter · PHP · MySQL · Firebase | Crowdfunding startups africaines |
-| 🏫 **Scolariis** | Flutter · PHP · MySQL · Firebase | Documents administratifs scolaires |
-| 🎵 **229MusicRadio** | Flutter · PHP · MySQL · Firebase | Diffusion musique béninoise |
-| 📺 **TOSSIN** | Flutter · PHP · MySQL · Firebase | Conformité légale ORTB/SRTB |
-| 👥 **PRODIJ (BDS)** | Flutter · PHP · MySQL · Firebase | Insertion professionnelle des jeunes |
-| 💱 **Xof Trader** | Flutter · PHP · MySQL | Échange sécurisé de cryptomonnaies |
-| 🌸 **ELLES** | Flutter · PHP · Firebase | Autonomisation féminine |
-| 🔗 **Framezer & Vafi** | Flutter · PHP · MySQL · Firebase | Communication & services |
+| [**core-banking**](https://github.com/MikeCHOKKI/core-banking) | Système bancaire Event Sourcing + CQRS : 6 modules Maven, 68 tests, idempotence Redis | `Java 21` `Spring Boot 3.4` `Kafka KRaft` `PostgreSQL` |
+| [**nexusflow**](https://github.com/MikeCHOKKI/nexusflow) · [captures](screenshots/nexusflow) | Microservices polyglottes : passerelle Go, gRPC, Redis Pub/Sub, 10 conteneurs | `Go` `PHP` `React` `gRPC` |
+| [**Prod+ Entertainment**](https://prodentertainment.vercel.app) · [captures](screenshots/prodplus) | Streaming HLS avec partage automatique des revenus, livré pour CCS Production | `Next.js 16` `PHP 8` `MariaDB` `HLS.js` |
+| [**tiktok-agent**](https://github.com/MikeCHOKKI/tiktok-agent) | Agent de contenu autonome piloté depuis Discord, 46 tests, coût d'infra nul | `Python` `discord.py` `Llama 3` `SDXL` |
+| [**Buzup**](https://buzup.app) · [captures](screenshots/buzup) | Écosystème business-to-client : annuaire, CV, pharmacies, école | `Flutter` `PHP` `Firebase` |
+| [**WeForgeEdu**](https://wfe.lucidforgeafrica.com) · [captures](screenshots/weforgeedu) | Edtech francophone : candidature BYU Pathway, simulateur de coûts, mentorat | `React` `Vite` `Laravel` |
+| [**Success-Delivery**](https://success-delivery.com) · [captures](screenshots/success_delivery) | E-learning mobile et web dédié à la reconversion chauffeur-livreur | `Flutter` `PHP` `Firebase` |
 
-</details>
+<details>
+<summary><b>Autres projets et open source</b></summary>
 
 <br/>
-
-## <picture><img src="https://media.giphy.com/media/dHr9aTBVqFvio2W0nu/giphy.gif" width="28"/></picture> &nbsp;Open Source
 
 | Dépôt | Stack | Description |
 |:--|:--|:--|
-| [**core-banking**](https://github.com/MikeCHOKKI/core-banking) | `Java 21` `Spring Boot` `Kafka` `PostgreSQL` | Event Sourcing + CQRS — 68 tests, 6 modules |
-| [**nexusflow**](https://github.com/MikeCHOKKI/nexusflow) | `Go` `gRPC` `Redis` `PostgreSQL` | Microservices distribués polyglottes |
-| [**lfa-cli-ai**](https://github.com/MikeCHOKKI/lfa-cli-ai) | `Go` `Cobra` `Bubbletea` | CLI d'installation OpenCode |
-| [**lfa-cli-ui**](https://github.com/MikeCHOKKI/lfa-cli-ui) | `React` `Vite` `Tailwind` | Landing page LFA CLI |
-| [**tiktok-agent**](https://github.com/MikeCHOKKI/tiktok-agent) | `Python` `discord.py` `HF` `APScheduler` | Agent TikTok autonome — 46 tests, 41 fichiers |
-| [**php-auth**](https://github.com/MikeCHOKKI/php-auth) | `PHP 8` `PostgreSQL` `Docker` | RBAC + JWT RS256 |
-| [**yt-downloader**](https://github.com/MikeCHOKKI/yt-downloader) | `TypeScript` | CLI YouTube |
+| [**lfa-cli-ai**](https://github.com/MikeCHOKKI/lfa-cli-ai) | `Go` `Cobra` `Bubbletea` | CLI d'installation et de configuration d'OpenCode |
+| [**lfa-cli-ui**](https://github.com/MikeCHOKKI/lfa-cli-ui) | `React` `Vite` `Tailwind` | Site de présentation du CLI |
+| [**php-auth**](https://github.com/MikeCHOKKI/php-auth) | `PHP 8` `PostgreSQL` `Docker` | RBAC granulaire + JWT RS256, rotation des refresh tokens |
+| [**yt-downloader**](https://github.com/MikeCHOKKI/yt-downloader) | `TypeScript` | CLI interactive de téléchargement YouTube |
+| **AfriStartup · Scolariis · 229MusicRadio · TOSSIN · PRODIJ · Xof Trader · ELLES** | `Flutter` `PHP` `MySQL` `Firebase` | Applications livrées pour des clients et projets béninois |
 
-<br/>
+</details>
 
-## <picture><img src="https://media.giphy.com/media/ZE0RTGu5UN8Yo27CrI/giphy.gif" width="28"/></picture> &nbsp;GitHub Stats
+## `$ history --career`
 
-<p align="center">
-  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MikeCHOKKI&show_icons=true&hide_border=true&bg_color=0a0a1a&title_color=06B6D4&icon_color=4f46e5&text_color=ffffff&include_all_commits=true&count_private=true" />
-  <img height="170" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeCHOKKI&layout=compact&hide_border=true&bg_color=0a0a1a&title_color=06B6D4&text_color=ffffff&langs_count=8" />
-</p>
+```console
+2026-02 → …        Fondateur & CEO              LucidForge Africa     Cotonou, BJ
+2026-05 → …        Développeur d'Application    Jilmonde Consulting   Dakar, SN
+2024-10 → 2025-10  Chef d'Exploitation IT       RAB-TECH              Cotonou, BJ
+2023-07 → 2024-01  Designer Textile CAD         Glo Djibe (GDIZ)      BJ
+2021-06 → 2023-07  Prestataire Informatique     RAB-TECH              BJ
 
-<p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MikeCHOKKI&theme=transparent&hide_border=true&background=0a0a1a&stroke=0a0a1a&ring=06B6D4&fire=4f46e5&currStreakLabel=06B6D4&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff" />
-</p>
+2022             Licence en Génie Logiciel    IFRI Abomey-Calavi
+2017             Baccalauréat                 Collège Hibiscus, Parakou
+```
 
-<p align="center">
-  <img alt="Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<br/>
-
-## 🌐 Langues
+## `$ gh stats`
 
 <div align="center">
 
-![Français](https://geps.dev/progress/100?dangerColor=06B6D4&warningColor=06B6D4&successColor=06B6D4) &nbsp; **Français** — Natif
-
-![English](https://geps.dev/progress/90?dangerColor=4f46e5&warningColor=4f46e5&successColor=4f46e5) &nbsp; **English** — Professionnel
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### 🤝 Construisons ensemble des solutions qui comptent pour l'Afrique
-
-<a href="mailto:mikechokki5@gmail.com"><img src="https://img.shields.io/badge/Disponible_pour_collaborer-Discutons_%E2%86%92-06B6D4?style=for-the-badge&labelColor=0a0a1a" /></a>
+<img src="assets/stats.svg" alt="Statistiques GitHub de MikeCHOKKI" width="100%" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
+<img src="https://raw.githubusercontent.com/MikeCHOKKI/MikeCHOKKI/output/snake-nuit-or.svg" alt="Grille de contributions animée" width="100%" />
 
-<sub>🤖 Maintenu par des agents AI · Dernière mise à jour : 21 juin 2026</sub>
+</div>
 
+## `$ contact --list`
+
+- 📧 **mikechokki5@gmail.com** — missions, collaborations, questions techniques
+- 🌍 [lucidforgeafrica.com](https://lucidforgeafrica.com) — LucidForge Africa
+- 💼 [linkedin.com/in/mikechokki](https://linkedin.com/in/mikechokki) · 𝕏 [@MikeChokki2](https://x.com/MikeChokki2)
+- 💜 [github.com/sponsors/forgelab-dev](https://github.com/sponsors/forgelab-dev) — soutenir nos projets open source
+
+<div align="center">
+<br/>
+<sub><code>mike@lucidforge:~$ exit</code> — merci d'avoir lu jusqu'ici. Construisons des choses qui comptent pour l'Afrique.</sub>
 </div>

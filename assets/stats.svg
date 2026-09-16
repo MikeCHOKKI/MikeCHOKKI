@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="476" viewBox="0 0 860 476" role="img" aria-label="Statistiques GitHub de MikeCHOKKI">
+  <style>
+    text { font-family: 'JetBrains Mono', 'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 15px; }
+    .user { fill: #D4A017; font-weight: 700; }
+    .sep, .muted { fill: #64748B; }
+    .path { fill: #F5E6B8; }
+    .cmd { fill: #F8FAFC; }
+    .label { fill: #94A3B8; }
+    .value { fill: #F8FAFC; }
+  </style>
+  <rect x="1" y="1" width="858" height="474" rx="12" fill="#020617" stroke="#D4A017" stroke-opacity="0.45" stroke-width="1.5"/>
+  <path d="M1 13 a12 12 0 0 1 12 -12 h834 a12 12 0 0 1 12 12 v25 h-858 z" fill="#0B1220"/>
+  <line x1="1" y1="38" x2="859" y2="38" stroke="#D4A017" stroke-opacity="0.25"/>
+  <circle cx="24" cy="20" r="6" fill="#EF4444"/><circle cx="44" cy="20" r="6" fill="#EAB308"/><circle cx="64" cy="20" r="6" fill="#22C55E"/>
+  <text x="430" y="25" text-anchor="middle" class="muted" style="font-size:13px">mike@lucidforge: ~/stats — zsh</text>
+  <text x="24" y="74"><tspan class="user">mike@lucidforge</tspan><tspan class="sep">:</tspan><tspan class="path">~</tspan><tspan class="sep">$ </tspan><tspan class="cmd">gh stats --user MikeCHOKKI</tspan></text>
+  <text x="24" y="106"><tspan class="label">abonnés.........</tspan><tspan class="value"> 325</tspan></text>
+  <text x="24" y="132"><tspan class="label">dépôts publics..</tspan><tspan class="value"> 10</tspan></text>
+  <text x="24" y="158"><tspan class="label">étoiles.........</tspan><tspan class="value"> 10</tspan></text>
+  <text x="24" y="184"><tspan class="label">contributions...</tspan><tspan class="value"> 834 (12 derniers mois)</tspan></text>
+  <text x="24" y="210"><tspan class="label">commits.........</tspan><tspan class="value"> 181</tspan></text>
+  <text x="24" y="236"><tspan class="label">pull requests...</tspan><tspan class="value"> 16</tspan></text>
+  <text x="24" y="276"><tspan class="user">mike@lucidforge</tspan><tspan class="sep">:</tspan><tspan class="path">~</tspan><tspan class="sep">$ </tspan><tspan class="cmd">gh stats --languages --top 5</tspan></text>
+  <text x="24" y="308" class="value">Dart</text><rect x="190" y="295" width="300" height="14" rx="2" fill="#0F172A"/><rect x="190" y="295" width="166" height="14" rx="2" fill="#D4A017"/><text x="506" y="308" class="label">55,3 %</text>
+  <text x="24" y="334" class="value">TypeScript</text><rect x="190" y="321" width="300" height="14" rx="2" fill="#0F172A"/><rect x="190" y="321" width="67" height="14" rx="2" fill="#D4A017"/><text x="506" y="334" class="label">22,3 %</text>
+  <text x="24" y="360" class="value">Python</text><rect x="190" y="347" width="300" height="14" rx="2" fill="#0F172A"/><rect x="190" y="347" width="21" height="14" rx="2" fill="#D4A017"/><text x="506" y="360" class="label">7,0 %</text>
+  <text x="24" y="386" class="value">Go</text><rect x="190" y="373" width="300" height="14" rx="2" fill="#0F172A"/><rect x="190" y="373" width="17" height="14" rx="2" fill="#D4A017"/><text x="506" y="386" class="label">5,8 %</text>
+  <text x="24" y="412" class="value">PHP</text><rect x="190" y="399" width="300" height="14" rx="2" fill="#0F172A"/><rect x="190" y="399" width="15" height="14" rx="2" fill="#D4A017"/><text x="506" y="412" class="label">5,1 %</text>
+  <text x="24" y="452" class="muted"># mis à jour le 15/09/2026 par GitHub Actions</text>
+</svg>
