@@ -17,14 +17,14 @@
   <text x="24" y="106"><tspan class="label">abonnés.........</tspan><tspan class="value"> 325</tspan></text>
   <text x="24" y="132"><tspan class="label">dépôts publics..</tspan><tspan class="value"> 10</tspan></text>
   <text x="24" y="158"><tspan class="label">étoiles.........</tspan><tspan class="value"> 10</tspan></text>
-  <text x="24" y="184"><tspan class="label">contributions...</tspan><tspan class="value"> 838 (12 derniers mois)</tspan></text>
-  <text x="24" y="210"><tspan class="label">commits.........</tspan><tspan class="value"> 760</tspan></text>
-  <text x="24" y="236"><tspan class="label">pull requests...</tspan><tspan class="value"> 28</tspan></text>
+  <text x="24" y="184"><tspan class="label">contributions...</tspan><tspan class="value"> 828 (12 derniers mois)</tspan></text>
+  <text x="24" y="210"><tspan class="label">commits.........</tspan><tspan class="value"> 746</tspan></text>
+  <text x="24" y="236"><tspan class="label">pull requests...</tspan><tspan class="value"> 32</tspan></text>
   <text x="24" y="276"><tspan class="user">mike@lucidforge</tspan><tspan class="sep">:</tspan><tspan class="path">~</tspan><tspan class="sep">$ </tspan><tspan class="cmd">gh stats --languages --top 5</tspan></text>
   <text x="24" y="308" class="value">Dart</text><rect x="190" y="295" width="300" height="14" rx="2" fill="#0F172A"/><rect x="190" y="295" width="166" height="14" rx="2" fill="#D4A017"/><text x="506" y="308" class="label">55,3 %</text>
   <text x="24" y="334" class="value">TypeScript</text><rect x="190" y="321" width="300" height="14" rx="2" fill="#0F172A"/><rect x="190" y="321" width="67" height="14" rx="2" fill="#D4A017"/><text x="506" y="334" class="label">22,3 %</text>
   <text x="24" y="360" class="value">Python</text><rect x="190" y="347" width="300" height="14" rx="2" fill="#0F172A"/><rect x="190" y="347" width="21" height="14" rx="2" fill="#D4A017"/><text x="506" y="360" class="label">7,0 %</text>
   <text x="24" y="386" class="value">Go</text><rect x="190" y="373" width="300" height="14" rx="2" fill="#0F172A"/><rect x="190" y="373" width="17" height="14" rx="2" fill="#D4A017"/><text x="506" y="386" class="label">5,8 %</text>
   <text x="24" y="412" class="value">PHP</text><rect x="190" y="399" width="300" height="14" rx="2" fill="#0F172A"/><rect x="190" y="399" width="15" height="14" rx="2" fill="#D4A017"/><text x="506" y="412" class="label">5,1 %</text>
-  <text x="24" y="452" class="muted"># mis à jour le 16/09/2026 par GitHub Actions</text>
+  <text x="24" y="452" class="muted"># mis à jour le 17/09/2026 par GitHub Actions</text>
 </svg>
