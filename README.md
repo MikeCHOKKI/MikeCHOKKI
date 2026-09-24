@@ -88,7 +88,7 @@ outils_ia:   [Claude Code, OpenCode, Windsurf, Ollama]
 2021-06 → 2023-07  Prestataire Informatique     RAB-TECH              BJ
 
 2022             Licence en Génie Logiciel    IFRI Abomey-Calavi
-2017             Baccalauréat                 Collège Hibiscus, Parakou
+2016             Baccalauréat                 Collège Hibiscus, Parakou
 ```
 
 ## `$ gh stats`
