@@ -26,5 +26,5 @@
   <text x="24" y="360" class="value">Python</text><rect x="190" y="347" width="300" height="14" rx="2" fill="#0F172A"/><rect x="190" y="347" width="21" height="14" rx="2" fill="#D4A017"/><text x="506" y="360" class="label">7,0 %</text>
   <text x="24" y="386" class="value">Go</text><rect x="190" y="373" width="300" height="14" rx="2" fill="#0F172A"/><rect x="190" y="373" width="17" height="14" rx="2" fill="#D4A017"/><text x="506" y="386" class="label">5,8 %</text>
   <text x="24" y="412" class="value">PHP</text><rect x="190" y="399" width="300" height="14" rx="2" fill="#0F172A"/><rect x="190" y="399" width="15" height="14" rx="2" fill="#D4A017"/><text x="506" y="412" class="label">5,1 %</text>
-  <text x="24" y="452" class="muted"># mis à jour le 24/10/2026 par GitHub Actions</text>
+  <text x="24" y="452" class="muted"># mis à jour le 25/10/2026 par GitHub Actions</text>
 </svg>
