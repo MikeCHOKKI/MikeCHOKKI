@@ -1,6 +1,7 @@
 name: Profile stats
 
-# Régénère assets/stats.svg (statistiques du profil, style terminal) chaque jour.
+# Chaque jour : régénère assets/stats.svg (statistiques du profil, style terminal)
+# et met à jour les versions citées dans README.md (pub.dev, releases GitHub).
 on:
   schedule:
     - cron: "0 5 * * *"
@@ -9,6 +10,7 @@ on:
     branches: [main]
     paths:
       - .github/scripts/profile-stats.mjs
+      - .github/scripts/profile-versions.mjs
       - .github/workflows/profile-stats.yml
 
 permissions:
@@ -38,9 +40,14 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
 
+      - name: Mettre à jour les versions du README
+        run: node .github/scripts/profile-versions.mjs
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/stats.svg
-          git diff --staged --quiet || { git commit -m "chore(stats): mettre à jour les statistiques du profil" && git push; }
+          git add assets/stats.svg README.md
+          git diff --staged --quiet || { git commit -m "chore(stats): mettre à jour les statistiques et les versions du profil" && git push; }
