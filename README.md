@@ -38,8 +38,8 @@ const mike = {
 | [**MedTech Magazine**](https://medtech.lucidforgeafrica.com) | Magazine santé : des médecins vérifiés publient des articles gratuits pour tous | `Laravel 13` `React 19 + Inertia` `MySQL` | En ligne depuis octobre 2026 |
 | **We Forge Commerce** | Boutique e-commerce en marque blanche, livrée sous licence à chaque client | `Laravel 13` `React 19 + Inertia` `MySQL` `KKiaPay` `FedaPay` | Boutiques clientes en production |
 | **LeadForge** | Outil interne : CRM, factures normalisées e-MECeF, publication sur Facebook et Instagram | `Laravel 13` `React 19 + Inertia` `e-MECeF` `API Graph Meta` | Usage interne |
-| [**ForgeNet**](https://github.com/forgelab-dev/lfa-forgenet) | Cloud souverain auto-hébergé, avec IA sysadmin 100 % locale (Ollama) | `Go` `React` `Flutter` `Caddy` | Open source (Apache 2.0), première version en préparation |
-| [**lucid_core_flutter**](https://pub.dev/packages/lucid_core_flutter) | Socle Flutter commun : client API, auth, stockage chiffré, thème, widgets | `Dart` `Flutter` | Version 0.8.0 sur pub.dev, éditeur vérifié |
+| [**ForgeNet**](https://forgenet.lucidforgeafrica.com) | Cloud souverain auto-hébergé : installation en une commande sur un VPS, tableau de bord, mises à jour depuis l'interface, IA sysadmin 100 % locale (Ollama) | `Go` `React` `Flutter` `Caddy` | Open source ([Apache 2.0](https://github.com/forgelab-dev/lfa-forgenet)), préversion <!-- auto:release:forgelab-dev/lfa-forgenet -->0.3.0<!-- /auto --> |
+| [**lucid_core_flutter**](https://pub.dev/packages/lucid_core_flutter) | Socle Flutter commun : client API, auth, stockage chiffré, thème, widgets | `Dart` `Flutter` | Version <!-- auto:pub:lucid_core_flutter -->0.10.0<!-- /auto --> sur pub.dev, éditeur vérifié |
 | [**ForgeLab**](https://github.com/forgelab-dev) | Le laboratoire open source de LucidForge Africa | — | Contributions bienvenues |
 
 ## `$ cat stack.yml`
