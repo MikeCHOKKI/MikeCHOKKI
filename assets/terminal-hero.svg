@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="392" viewBox="0 0 860 392" role="img" aria-labelledby="title desc">
   <title id="title">mike@lucidforge — terminal</title>
-  <desc id="desc">Mike E.S. Chokki, Fondateur de LucidForge Africa, Back-End Engineer et Architecte. Systèmes distribués, Go, Java Spring Boot, Laravel, Flutter. Basé à Dakar et Cotonou.</desc>
+  <desc id="desc">Mike E.S. Chokki, ingénieur logiciel chez LucidForge Africa, Back-End Engineer et Architecte. Systèmes distribués, Go, Java Spring Boot, Laravel, Flutter. Basé à Dakar et Cotonou.</desc>
   <style>
     .t { font-family: 'JetBrains Mono', 'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 16px; }
     .user { fill: #D4A017; font-weight: 700; }
@@ -38,7 +38,7 @@
       <text x="24" y="106" class="name">Mike E.S. Chokki</text>
     </g>
     <g class="l" style="animation-delay:1.3s">
-      <text x="24" y="134" class="out">Fondateur <tspan class="accent">@ LucidForge Africa</tspan> · Back-End Engineer &amp; Architect</text>
+      <text x="24" y="134" class="out">Ingénieur logiciel <tspan class="accent">@ LucidForge Africa</tspan> · Back-End &amp; Architecture</text>
     </g>
 
     <g class="l" style="animation-delay:2.2s">
