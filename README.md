@@ -21,7 +21,7 @@ Côté technique, j'associe la performance de **Go** pour les services concurren
 ```ts
 const mike = {
   role:       "Fondateur @ LucidForge Africa · Back-End Engineer & Architect",
-  jour:       "Développeur d'Application, volontaire international (programme TAI) @ Jilmonde Consulting (Dakar)",
+  jour:       "Développeur d'Application, volontaire international (programme T.A.I de l'UEMOA) @ Jilmonde Consulting (Dakar)",
   benevole:   "Owner du pôle 3, app Flutter de check-in @ Africa Power Platform",
   focus:      ["Systèmes distribués", "Event Sourcing / CQRS", "Souveraineté des données"],
   apprend:    ["Kubernetes", "Kafka Streams", "Go concurrency avancée"],
