@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/terminal-hero.svg" alt="mike@lucidforge — Mike E.S. Chokki, Fondateur de LucidForge Africa, Back-End Engineer & Architect" width="100%" />
+<img src="assets/terminal-hero.svg" alt="mike@lucidforge — Mike E.S. Chokki, ingénieur logiciel chez LucidForge Africa, Back-End Engineer & Architect" width="100%" />
 
 <br/>
 
-[![LucidForge Africa](https://img.shields.io/badge/LucidForge_Africa-Fondateur-D4A017?style=for-the-badge&labelColor=020617)](https://lucidforgeafrica.com)
+[![LucidForge Africa](https://img.shields.io/badge/LucidForge_Africa-Ing%C3%A9nieur_logiciel-D4A017?style=for-the-badge&labelColor=020617)](https://lucidforgeafrica.com)
 [![ForgeLab](https://img.shields.io/badge/ForgeLab-open_source-D4A017?style=for-the-badge&labelColor=020617)](https://github.com/forgelab-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mikechokki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617)](https://linkedin.com/in/mikechokki)
 [![X](https://img.shields.io/badge/X-@MikeChokki2-F8FAFC?style=for-the-badge&logo=x&logoColor=white&labelColor=020617)](https://x.com/MikeChokki2)
@@ -20,7 +20,7 @@ Côté technique, j'associe la performance de **Go** pour les services concurren
 
 ```ts
 const mike = {
-  role:       "Fondateur @ LucidForge Africa · Back-End Engineer & Architect",
+  role:       "Ingénieur logiciel @ LucidForge Africa · Back-End Engineer & Architect",
   jour:       "Développeur d'Application, volontaire international (programme T.A.I de l'UEMOA) @ Jilmonde Consulting (Dakar)",
   benevole:   "Owner du pôle 3, app Flutter de check-in @ Africa Power Platform",
   focus:      ["Systèmes distribués", "Event Sourcing / CQRS", "Souveraineté des données"],
@@ -87,7 +87,7 @@ outils_ia:   [Claude Code, OpenCode, Windsurf, Ollama]
 
 ```console
 2026-11 → …        Bénévole, owner du pôle 3    Africa Power Platform Togo, à distance
-2026-02 → …        Fondateur & CEO              LucidForge Africa     Cotonou, BJ
+2026-02 → …        Ingénieur logiciel           LucidForge Africa     Cotonou, BJ
 2026-05 → …        Volontaire TAI, développeur  Jilmonde Consulting   Dakar, SN
 2024-10 → 2025-10  Chef d'Exploitation IT       RAB-TECH              Cotonou, BJ
 2023-07 → 2024-01  Designer Textile CAD         Glo Djibe (GDIZ)      BJ
