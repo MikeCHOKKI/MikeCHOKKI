@@ -21,7 +21,7 @@ Côté technique, j'associe la performance de **Go** pour les services concurren
 ```ts
 const mike = {
   role:       "Fondateur @ LucidForge Africa · Back-End Engineer & Architect",
-  jour:       "Développeur d'Application @ Jilmonde Consulting (Dakar)",
+  jour:       "Développeur d'Application, volontaire international (programme T.A.I de l'UEMOA) @ Jilmonde Consulting (Dakar)",
   benevole:   "Owner du pôle 3, app Flutter de check-in @ Africa Power Platform",
   focus:      ["Systèmes distribués", "Event Sourcing / CQRS", "Souveraineté des données"],
   apprend:    ["Kubernetes", "Kafka Streams", "Go concurrency avancée"],
@@ -88,7 +88,7 @@ outils_ia:   [Claude Code, OpenCode, Windsurf, Ollama]
 ```console
 2026-11 → …        Bénévole, owner du pôle 3    Africa Power Platform Togo, à distance
 2026-02 → …        Fondateur & CEO              LucidForge Africa     Cotonou, BJ
-2026-05 → …        Développeur d'Application    Jilmonde Consulting   Dakar, SN
+2026-05 → …        Volontaire TAI, développeur  Jilmonde Consulting   Dakar, SN
 2024-10 → 2025-10  Chef d'Exploitation IT       RAB-TECH              Cotonou, BJ
 2023-07 → 2024-01  Designer Textile CAD         Glo Djibe (GDIZ)      BJ
 2021-06 → 2023-07  Prestataire Informatique     RAB-TECH              BJ
